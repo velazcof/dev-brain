@@ -1,25 +1,17 @@
 
 ### `Definition`
 
-Docker Swarm is a **container orchestration platform built into Docker** that allows multiple Docker hosts to be managed as a single cluster.
-
-It enables the deployment, scaling, and management of containerized applications across multiple machines while maintaining the simplicity of the Docker ecosystem.
+Docker Swarm is a **container orchestration platform built into Docker** that allows multiple Docker hosts to be managed as a single cluster. It enables the deployment, scaling, and management of containerized applications across multiple machines while maintaining the simplicity of the Docker ecosystem.
 
 ---
 ### `Key Capabilities`
 
 - Orchestrates containers across **multiple Docker nodes**
-    
 - Provides **built-in clustering and scheduling**
-    
 - Supports **service scaling and replication**
-    
 - Enables **service discovery and internal load balancing**
-    
 - Maintains **high availability** by redistributing containers if nodes fail
-    
 - Uses **declarative service definitions**
-    
 - Integrates directly with the **Docker CLI and ecosystem**
 
 ---
@@ -57,13 +49,9 @@ docker service scale web=3
 ### `Challenges`
 
 - Smaller ecosystem compared to Kubernetes
-    
 - Limited advanced orchestration features
-    
 - Declining adoption in favor of Kubernetes
-    
 - Fewer community tools and integrations
-    
 - Less flexibility for large-scale distributed systems
 
 ---

@@ -45,4 +45,4 @@ It represents a **closed, vertically integrated OS platform**, where hardware, o
 ---
 ### `Connected Notes`
 
-- [[Mobile OS]]
+- [[Mobile (OS)]]

@@ -33,15 +33,10 @@ Mobile OSes balance general-purpose computing with strong **platform control**, 
 ### `Use Cases`
 
 - Smartphones and tablets
-    
 - Consumer mobile applications
-    
 - Secure personal computing devices
-    
 - Mobile productivity and media consumption
-    
 - Platform-controlled app ecosystems
-    
 - Devices requiring strong battery and thermal management
 
 ---

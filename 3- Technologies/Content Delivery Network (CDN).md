@@ -3,7 +3,7 @@
 
 A **Content Delivery Network (CDN)** is a **distributed system of servers (edge nodes)** positioned across different geographic regions to deliver digital content—such as images, videos, scripts, and APIs—quickly and reliably to users.
 
-It works as a **middle layer between the client and the origin server**, caching and routing content closer to users to minimize latency and bandwidth usage.
+It works as a **middle layer** between the client and the origin server, caching and routing content closer to users to minimize latency and bandwidth usage.
 
 ---
 ### `Key Ideas`
@@ -33,15 +33,10 @@ It works as a **middle layer between the client and the origin server**, caching
 ### `Use Cases`
 
 - **Website Acceleration:** Reduce page load time by serving assets from local PoPs.
-    
 - **Global Content Distribution:** Deliver static and streaming content efficiently worldwide.
-    
 - **API & Edge Caching:** Improve latency and scalability for API-driven applications.
-    
 - **DDoS Mitigation:** Absorb or deflect large volumes of malicious traffic.
-    
 - **SSL/TLS Offloading:** Terminate secure connections at the edge to reduce origin load.
-    
 - **Video & Game Distribution:** Handle large downloads or live video streams to millions of users.
 
 ---

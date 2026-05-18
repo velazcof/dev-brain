@@ -28,6 +28,6 @@
 - [[Unix (OS)]]
 - [[Linux (OS)]]
 - [[Windows (OS)]]
-- [[Mobile OS]]
+- [[Mobile (OS)]]
 - [[Real-Time OS (RTOS)]]
 - [[Embedded OS]]

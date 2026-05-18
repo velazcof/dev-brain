@@ -47,4 +47,4 @@ It represents a **distinct OS platform**, not just a Linux distribution, due to 
 ---
 ### `Connected Notes`
 
-- [[Mobile OS]]
+- [[Mobile (OS)]]
