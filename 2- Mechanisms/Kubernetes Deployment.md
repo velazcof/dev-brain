@@ -6,36 +6,31 @@ A Kubernetes Deployment is a resource that **manages the lifecycle, scaling, and
 ---
 ### `How It Works`
 
-- A deployment defines a **desired number of pod replicas**
-- Uses a **pod template** to specify how pods should be created
-- Kubernetes creates and manages **ReplicaSets** to maintain the desired number of pods
-- The system continuously compares:
-    - Desired state (defined in the deployment)
-    - Actual state (running pods)
-- If there is a mismatch, Kubernetes **reconciles the state** by:
-    - Creating new pods
-    - Removing excess pods
-- Supports **rolling updates**:
-    - Gradually replaces old pods with new ones
-    - Maintains availability during updates
-- Supports **rollbacks** to previous versions if needed
-- Works with the scheduler to **place pods on appropriate nodes**
+- **Desired state management**  
+    A deployment defines how an application should run, including the number of replicas and the pod configuration Kubernetes should maintain.
+
+- **Replica management**  
+    Kubernetes uses ReplicaSets underneath deployments to continuously compare the desired state with the actual running state, creating or removing pods when necessary.
+
+- **Application updates**  
+    Deployments support rolling updates and rollbacks, allowing applications to be updated gradually without downtime while preserving system availability.
+
+- **Cluster coordination**  
+    Pods created by deployments are scheduled onto nodes by Kubernetes, which handles placement and runtime execution automatically.
 
 ---
 ### `Why It Exists`
 
-Deployments provide a **reliable and automated way to manage application state over time**.
+- **Automated application lifecycle management**  
+    Deployments remove the need to manually create, replace, or monitor pods by continuously maintaining the intended application state.
 
-They enable:
+- **Reliability and scalability**  
+    They provide mechanisms for scaling applications, recovering from failures, and ensuring a consistent number of running instances.
 
-- Maintaining a consistent number of running instances
-- Updating applications without downtime
-- Automatic recovery from failures
-- Declarative management of application lifecycle
-
-By abstracting pod management, deployments allow developers to define **what the system should look like**, while Kubernetes handles how to achieve it.
+- **Safe application delivery**  
+    Rolling updates and rollback capabilities allow applications to evolve safely while minimizing service disruption.
 
 ---
 ### `Connected Notes`
 
-- [[Kubernetes]]
+- [[Workload Management]]

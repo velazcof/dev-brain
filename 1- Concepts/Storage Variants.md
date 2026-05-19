@@ -1,11 +1,9 @@
 
 ### `Definition`
 
-Storage variants are specialized implementations or extensions of the three core storage types — **block, file, and object storage**.  
-They adapt the core models to different environments, scales, and use cases (e.g., physical servers, distributed clusters, or cloud-native systems).
+Storage variants are specialized implementations or extensions of the three core storage types — **block, file, and object storage**. They adapt the core models to different environments, scales, and use cases (e.g., physical servers, distributed clusters, or cloud-native systems).
 
 ---
-
 ### `Key Ideas`
 
 - Each variant **builds upon** one of the core storage types to add functionality like networking, clustering, or abstraction.

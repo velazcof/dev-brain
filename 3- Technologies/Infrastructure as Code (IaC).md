@@ -21,11 +21,8 @@
 ### `Use Cases`
 
 - **Automated environment setup** for development, testing, and production.
-    
 - **Cloud provisioning** — defining and managing servers, storage, and networking declaratively.
-    
 - **Disaster recovery** — quickly rebuilding systems from version-controlled configurations.
-    
 - **Scalable CI/CD pipelines** — spinning up environments on demand and tearing them down after testing.
 
 ---

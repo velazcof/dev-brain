@@ -72,5 +72,8 @@ kubectl apply -f deployment.yaml
 
 - [[Container Orchestrators]]
 - [[Kubernetes Architecture]]
-- [[Kubernetes Pod]]
-- [[Kubernetes Deployment]]
+- [[Workload Management]]
+- [[Networking]]
+- [[Configuration & Storage]]
+- [[Cluster & Scheduling]]
+- [[Operations]]

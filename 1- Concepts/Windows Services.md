@@ -1,9 +1,7 @@
 
 ### `Definition`
 
-**Windows Services** describe the **model of long-running background processes** in Windows that provide system-level or application-level functionality without direct user interaction.
-
-They represent how Windows structures **persistent, non-interactive work** in user space.
+**Windows Services** describe the **model of long-running background processes** in Windows that provide system-level or application-level functionality without direct user interaction. They represent how Windows structures **persistent, non-interactive work** in user space.
 
 ---
 ### `Key Ideas`

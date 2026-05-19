@@ -16,7 +16,6 @@
     Depending on the language and declaration, variables may allow their values to change over time.
     
 - **Typed or Untyped**
-    
     - In typed languages, variables are associated with a data type
     - In dynamic systems, the type may belong to the value instead
     

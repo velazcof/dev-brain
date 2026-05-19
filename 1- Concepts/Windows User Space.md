@@ -1,8 +1,7 @@
 
 ### `Definition`
 
-**Windows User Space** refers to all software, services, frameworks, and tools that run **outside the Windows kernel** and form the **execution environment for applications**.  
-It includes system APIs, runtimes, command-line tools, graphical interfaces, background services, and user applications.
+**Windows User Space** refers to all software, services, frameworks, and tools that run **outside the Windows kernel** and form the **execution environment for applications**. It includes system APIs, runtimes, command-line tools, graphical interfaces, background services, and user applications.
 
 It sits above the **Windows NT kernel**, interacting with it through well-defined system interfaces rather than direct hardware access.
 
@@ -19,9 +18,7 @@ It sits above the **Windows NT kernel**, interacting with it through well-define
     Includes multiple shells and CLI environments such as:
     
     - **Command Prompt (cmd.exe)**
-        
     - **PowerShell**
-        
     - **Windows Terminal**  
         These coexist and serve different generations and use cases.
     
@@ -34,18 +31,15 @@ It sits above the **Windows NT kernel**, interacting with it through well-define
 - **Application Distribution Model**  
     Software is distributed via:
     
-    - Installers (`.exe`, `.msi`)
-        
-    - Microsoft Store packages
-        
-    - Enterprise deployment tools  
+    - **Installers (`.exe`, `.msi`)**
+    - **Microsoft Store packages**
+    - **Enterprise deployment tools**  
         There is no native, universal package manager comparable to Linux distros.
     
 - **User Space Is OS-Defined**  
     Unlike Linux, Windows user space does not vary by distribution:
     
     - Kernel, APIs, services, and UI evolve together
-        
     - Customization happens at the application and configuration level
 
 ---
