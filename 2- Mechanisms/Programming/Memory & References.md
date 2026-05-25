@@ -1,7 +1,7 @@
 
 ### `Definition`
 
-**Memory & references** describe how a program **stores data in memory** and how program elements **locate and interact with that data**. They define the relationship between values, storage locations, and the names or references used to access them.
+**Memory & references** describe how a program stores data in memory and how program elements **locate and interact with that data**. They define the relationship between values, storage locations, and the names or references used to access them.
 
 ---
 ### `How It Works`

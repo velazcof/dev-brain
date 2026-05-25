@@ -14,11 +14,8 @@ This evaluation occurs transparently as data flows between network segments.
 ### `Why It Exists`
 
 - To **protect systems** from unauthorized or malicious network access
-    
 - To enforce **network-level security policies**
-    
 - To isolate internal components from external exposure
-    
 - To reduce the attack surface of production systems
 
 ---

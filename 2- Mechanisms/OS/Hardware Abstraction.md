@@ -1,7 +1,7 @@
 
 ### `Definition`
 
-**Hardware abstraction** is the mechanism through which the operating system **hides hardware-specific details** and exposes **uniform interfaces** to higher system layers. It allows software to operate independently of the underlying physical hardware.
+**Hardware abstraction** is the mechanism through which the operating system **hides hardware-specific details** and exposes uniform interfaces to higher system layers. It allows software to operate independently of the underlying physical hardware.
 
 ---
 ### `How It Works`
@@ -16,13 +16,9 @@ This separation ensures that changes in hardware do not require changes in appli
 ### `Why It Exists`
 
 - To enable **portability** across different hardware platforms
-    
 - To isolate software from hardware complexity
-    
 - To simplify system design and development
-    
 - To allow hardware evolution without breaking software
-    
 - To enforce controlled and secure hardware access
 
 ---

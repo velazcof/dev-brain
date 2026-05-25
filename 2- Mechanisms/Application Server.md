@@ -16,11 +16,8 @@ The mechanism executes business rules, orchestrates workflows, manages applicati
 ### `Why It Exists`
 
 - To **centralize business logic** outside of clients and databases
-    
 - To enable **scalable, maintainable server-side execution**
-    
 - To separate **application behavior** from request handling and data storage
-    
 - To support **stateful interactions, transactions, and coordination** across system components
 
 ---

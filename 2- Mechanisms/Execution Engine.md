@@ -10,16 +10,16 @@ It executes low-level operations such as scans, joins, filtering, and aggregatio
 
 - **Receives an Execution Plan**  
     Accepts a finalized query plan produced by the planning and optimization stages.
-    
+
 - **Executes Physical Operators**  
     Performs operations such as table scans, index lookups, joins, sorting, and grouping.
-    
+
 - **Interacts with Storage and Memory**  
     Requests pages from the storage subsystem and coordinates with buffer management for data access.
-    
+
 - **Streams or Materializes Results**  
     Produces result sets either incrementally (streaming) or after full computation.
-    
+
 - **Handles Runtime Conditions**  
     Manages resource usage, temporary data structures, and intermediate results during execution.
 
@@ -27,9 +27,7 @@ It executes low-level operations such as scans, joins, filtering, and aggregatio
 ### `Why It Exists`
 
 - To transform a logical execution plan into actual data retrieval and modification operations
-    
 - To coordinate physical access to storage and memory structures
-    
 - To produce query results efficiently and predictably
 
 ---

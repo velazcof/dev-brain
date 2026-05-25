@@ -7,20 +7,16 @@
 ### `How It Works`
 
 - A message is delivered to a consumer.
-    
 - Processing fails due to:
-    
     - Temporary service unavailability
     - Network issues
     - Timeouts
-    
+
 - The messaging system:
-    
     - Schedules the message for redelivery
     - Applies retry rules (count, delay, backoff)
-	
+
 - Retries continue until:
-    
     - The message is successfully processed, or
     - Retry limits are exceeded and the message is sent to a dead-letter queue
 
@@ -34,13 +30,9 @@
 ### `Why It Exists`
 
 - To handle **transient failures** automatically
-    
 - To improve reliability without human intervention
-    
 - To avoid losing messages due to temporary issues
-    
 - To smooth over short-lived system outages
-    
 - To reduce operational burden
 
 ---

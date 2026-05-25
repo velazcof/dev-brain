@@ -17,11 +17,8 @@ This transition enforces isolation while allowing necessary interaction with sys
 ### `Why It Exists`
 
 - To enable **safe access** to privileged operating system functionality
-    
 - To enforce **isolation and protection** between applications and the kernel
-    
 - To provide a consistent interface to processes, memory, files, and devices
-    
 - To abstract hardware and kernel internals from user-space programs
 
 ---

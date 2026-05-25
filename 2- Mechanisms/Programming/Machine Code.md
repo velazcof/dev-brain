@@ -16,11 +16,8 @@ Execution proceeds sequentially unless altered by control instructions.
 ### `Why It Exists`
 
 - To provide a **direct interface** between software and hardware
-    
 - To enable **precise and efficient execution** of computations
-    
 - To serve as the **final execution form** of all programs
-    
 - To define the foundational behavior of processor architectures
 
 ---

@@ -17,11 +17,8 @@ Execution behavior is tightly coupled to the underlying hardware architecture.
 ### `Why It Exists`
 
 - To enable **precise control over hardware behavior**
-    
 - To allow **low-level optimization** of performance and resource usage
-    
 - To provide a human-readable representation of **machine code**
-    
 - To support systems where higher-level abstractions are unavailable or inefficient
 
 ---

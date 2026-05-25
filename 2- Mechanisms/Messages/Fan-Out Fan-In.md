@@ -9,18 +9,13 @@ It enables **parallel processing** while preserving a single logical workflow.
 ### `How It Works`
 
 - A producer emits a **single initiating message**.
-    
 - The system **fans out** the work by:
-    
     - Creating multiple messages
     - Dispatching them to parallel consumers or workers
-    
+
 - Each consumer processes its portion independently.
-    
 - Results are sent back to a coordination point.
-    
 - The system **fans in** by:
-    
     - Aggregating results
     - Detecting completion
     - Producing a final response or event
@@ -35,13 +30,9 @@ It enables **parallel processing** while preserving a single logical workflow.
 ### `Why It Exists`
 
 - To **speed up processing** through parallelism
-    
 - To break large tasks into **independent, scalable units**
-    
 - To improve fault isolation (one failure doesn’t stop all work)
-    
 - To support batch processing and distributed computation
-    
 - To enable elastic scaling of workloads
 
 ---

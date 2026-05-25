@@ -14,11 +14,8 @@ User input events are captured, interpreted, and routed to applications or syste
 ### `Why It Exists`
 
 - To offer a **consistent and usable graphical interface**
-    
 - To integrate applications and system services into a single workspace
-    
 - To simplify interaction with files, programs, and system controls
-    
 - To improve **accessibility and usability** for everyday computing
 
 ---

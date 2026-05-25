@@ -12,7 +12,6 @@ The **stack** is a memory mechanism that manages **temporary execution data** in
     - local variables
     - return address
     - saved execution state
-
 - As functions call other functions, new frames are added on top.
 - When a function returns, its stack frame is **popped**, restoring the previous execution state.
 - Stack allocation and deallocation are **automatic and deterministic**, following execution flow.

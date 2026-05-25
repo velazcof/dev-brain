@@ -8,13 +8,13 @@
 
 - **Defines transaction boundaries**  
     Groups multiple operations into a transaction that is treated as one logical unit.
-    
+
 - **Coordinates concurrent access**  
     Ensures multiple transactions can run at the same time without corrupting shared data.
-    
+
 - **Enforces isolation behavior**  
     Controls what changes are visible between transactions while they are in progress.
-    
+
 - **Controls completion outcomes**  
     Finalizes a transaction by committing its effects or rolling them back.
 
@@ -22,9 +22,7 @@
 ### `Why It Exists`
 
 - To prevent partial updates and inconsistent intermediate states
-    
 - To enable safe concurrency over shared data
-    
 - To provide predictable transactional behavior for applications
 
 ---

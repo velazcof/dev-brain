@@ -14,11 +14,8 @@ The mechanism manages data persistence, enforces structure and constraints, coor
 ### `Why It Exists`
 
 - To provide **reliable, long-term data persistence**
-    
 - To centralize **data access and coordination**
-    
 - To support **concurrent use** by multiple system components
-    
 - To maintain **data integrity and consistency** across operations
 
 ---
