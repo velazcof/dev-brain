@@ -17,7 +17,7 @@ In SaaS, the provider manages **almost the entire stack**, while the customer fo
     - Runtime environments
     - Application code and updates
     - Platform availability and patching
-    
+
 - **Customer Focuses on Access and Data**  
     The customer is responsible for:
     
@@ -26,14 +26,14 @@ In SaaS, the provider manages **almost the entire stack**, while the customer fo
     - Data classification and protection
     - Secure usage of the application
     - Compliance with organizational policies
-    
+
 - **Lowest Customer Control, Lowest Operational Burden**  
     Compared to IaaS and PaaS:
     
     - Minimal configuration control
     - No infrastructure or platform management
     - Fastest time to value
-    
+
 - **Misuse Is the Primary Risk**  
     Common SaaS risks include:
     
@@ -41,7 +41,7 @@ In SaaS, the provider manages **almost the entire stack**, while the customer fo
     - Over-permissioned users
     - Data leakage through sharing features
     - Poor offboarding of users
-    
+
 - **Security Is Still Shared**  
     Even though the provider runs the application:
     

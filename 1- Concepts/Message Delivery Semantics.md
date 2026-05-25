@@ -11,26 +11,24 @@ They define **what happens under success, delay, duplication, or failure**—ind
 - **Orthogonal to Messaging Patterns**  
     Delivery semantics apply equally to queues, pub/sub, streaming, and request–reply.  
     They do not change message flow shape—only behavior under failure.
-    
+
 - **Delivery Guarantees**  
     Common guarantees include:
-    
     - **At-most-once**: messages may be lost, never duplicated
     - **At-least-once**: messages are retried, duplicates possible
     - **Exactly-once**: messages processed once (hard and costly)
-    
+
 - **Acknowledgements & Visibility**  
     Consumers explicitly acknowledge successful processing; unacknowledged messages may be redelivered.
-    
+
 - **Retries & Backoff**  
     Failed messages can be retried automatically, often with delays or exponential backoff.
-    
+
 - **Dead-Letter Handling**  
     Messages that repeatedly fail can be isolated for inspection instead of blocking the system.
-    
+
 - **Trade-offs Are Inevitable**  
     Stronger guarantees often increase:
-    
     - Latency
     - Complexity
     - Cost

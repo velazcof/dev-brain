@@ -15,11 +15,8 @@ Special control statements can alter the normal sequence by exiting, skipping, o
 ### `Why It Exists`
 
 - To enable **structured execution** of instructions
-    
 - To support **decision-making and repetition**
-    
 - To allow programs to respond dynamically to **data and state**
-    
 - To define predictable and understandable program behavior
 
 ---

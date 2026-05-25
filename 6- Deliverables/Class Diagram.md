@@ -7,13 +7,9 @@ A Class Diagram is a UML structural diagram that models the classes in a system,
 ### `Key Ideas`
 
 - Represents **classes**, **attributes**, **methods**, and **visibility**.
-    
 - Shows relationships such as **inheritance**, **association**, **aggregation**, and **composition**.
-    
 - Useful for modeling domain structure and object interactions.
-    
 - Helps clarify how objects relate, depend on, or extend each other.
-    
 - Commonly used in object-oriented analysis and design.
 
 ---

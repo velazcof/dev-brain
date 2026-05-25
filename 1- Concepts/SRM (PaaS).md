@@ -17,7 +17,7 @@ In PaaS, the provider manages the **infrastructure and runtime platform**, while
     - Operating system
     - Runtime environment (language runtimes, middleware)
     - Platform patching and availability
-    
+
 - **Customer Manages the Application**  
     The customer is responsible for:
     
@@ -26,7 +26,7 @@ In PaaS, the provider manages the **infrastructure and runtime platform**, while
     - Data and data protection
     - Identity and access within the application
     - Secure use of platform services
-    
+
 - **Less Responsibility Than IaaS**  
     Compared to IaaS:
     
@@ -34,14 +34,14 @@ In PaaS, the provider manages the **infrastructure and runtime platform**, while
     - No runtime patching
     - No infrastructure hardening  
         This reduces operational burden but also reduces control.
-    
+
 - **Security Is Still Shared**  
     Even though the platform is managed:
     
     - Insecure code can still cause breaches
     - Misconfigured services can expose data
     - Poor identity management remains a customer risk
-    
+
 - **Abstraction Increases Responsibility Shift**  
     As abstraction increases (IaaS → PaaS → SaaS), more responsibility moves to the provider — but **never fully disappears**.
 

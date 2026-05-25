@@ -1,7 +1,9 @@
 
 ### `Definition`
 
-Cluster & Scheduling refers to the systems and mechanisms responsible for **organizing cluster resources and determining where workloads execute within a Kubernetes environment**. It governs how nodes are coordinated, how workloads are assigned to infrastructure, and how cluster-wide operations are managed.
+Cluster & Scheduling refers to the systems and mechanisms responsible for **organizing cluster resources and determining where workloads execute within a Kubernetes environment**. 
+
+It governs how nodes are coordinated, how workloads are assigned to infrastructure, and how cluster-wide operations are managed.
 
 ---
 ### `Key Ideas`
@@ -26,4 +28,3 @@ Cluster & Scheduling refers to the systems and mechanisms responsible for **orga
 - [[Kubernetes Scheduler]]
 - [[Kubernetes Namespace]]
 - [[Kubernetes Control Plane]]
-- [[Cluster]]

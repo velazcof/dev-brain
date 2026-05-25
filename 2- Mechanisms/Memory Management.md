@@ -16,13 +16,9 @@ The system controls how memory is allocated, shared, paged, and released, handli
 ### `Why It Exists`
 
 - To enable **safe and isolated execution** of multiple programs
-    
 - To manage **limited physical memory resources** efficiently
-    
 - To provide programs with a consistent view of memory
-    
 - To prevent accidental or malicious interference between processes
-    
 - To support stable system operation over time
 
 ---

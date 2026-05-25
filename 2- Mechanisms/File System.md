@@ -14,13 +14,9 @@ By abstracting raw storage blocks into files and directories, it enables consist
 ### `Why It Exists`
 
 - To provide a **persistent data model** beyond program execution
-    
 - To organize data in a **hierarchical and manageable structure**
-    
 - To abstract low-level storage details
-    
 - To enforce **access control and permissions**
-    
 - To support reliable data retrieval and modification
 
 ---

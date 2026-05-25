@@ -7,13 +7,9 @@ The C4 Model is a modern, visual approach to software architecture documentation
 ### `Key Ideas`
 
 - Uses **four zoom levels** to explain architecture from high-level to code-level.
-    
 - Focuses on clarity: easy for both technical and non-technical stakeholders.
-    
 - Ideal for distributed systems, microservices, and cloud-based architectures.
-    
 - Replaces fragmented or overly complex diagramming approaches.
-    
 - Commonly used in modern development teams via tools like Miro, Lucidchart, or Excalidraw.
 
 ---

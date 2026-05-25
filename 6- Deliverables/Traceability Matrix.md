@@ -1,7 +1,7 @@
 
 ### `Definition`
 
-A **Traceability Matrix** is a **structured document or table** that maps **relationships between related artifacts** (such as requirements, design elements, test cases, and implementations) to ensure **coverage, consistency, and accountability**.
+A **Traceability Matrix** is a structured document or table that maps **relationships between related artifacts** (such as requirements, design elements, test cases, and implementations) to ensure coverage, consistency, and accountability.
 
 It answers the question:
 
@@ -12,43 +12,37 @@ It answers the question:
 
 - **Bidirectional Traceability**  
     Links artifacts both:
-    
     - **Forward** (e.g. requirement → test case)
     - **Backward** (e.g. test failure → originating requirement)
-    
+
 - **Coverage Verification**  
     Ensures that:
-    
     - Every requirement is implemented
     - Every implementation is tested
     - No orphaned work exists
-    
+
 - **Change Impact Analysis**  
     Helps identify what is affected when:
-    
     - A requirement changes
     - A design decision is modified
     - A test fails
-    
+
 - **Cross-Artifact Mapping**  
     Common mappings include:
-    
     - Requirements ↔ Design
     - Requirements ↔ Test cases
     - User stories ↔ Acceptance criteria
     - Regulations ↔ Controls
-    
+
 - **Often Tabular, Not Conceptual**  
     Typically implemented as:
-    
     - Tables
     - Spreadsheets
     - Structured documents  
         rather than diagrams.
-    
+
 - **Common in Regulated or Complex Systems**  
     Especially important where:
-    
     - Compliance is required
     - Systems are safety- or mission-critical
 

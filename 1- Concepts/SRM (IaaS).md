@@ -16,7 +16,7 @@ In IaaS, the provider supplies the **infrastructure**, while the customer retain
     - Servers and storage
     - Physical security
     - Availability of the infrastructure
-    
+
 - **Customer Manages the OS and Above**  
     The customer is responsible for:
     
@@ -26,14 +26,14 @@ In IaaS, the provider supplies the **infrastructure**, while the customer retain
     - Applications and application code
     - Data and data protection
     - Identity and access management
-    
+
 - **Highest Customer Responsibility Among Cloud Models**  
     Compared to PaaS and SaaS:
     
     - More flexibility
     - More control
     - More risk if misconfigured
-    
+
 - **Misconfiguration Is the Primary Risk**  
     Most IaaS breaches stem from:
     
@@ -41,7 +41,7 @@ In IaaS, the provider supplies the **infrastructure**, while the customer retain
     - Weak firewall rules
     - Unpatched OS vulnerabilities
     - Poor access controls
-    
+
 - **Security Is Still Shared**  
     The provider secures the infrastructure **of** the cloud,  
     while the customer secures what runs **in** the cloud.

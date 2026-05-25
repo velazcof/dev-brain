@@ -27,5 +27,5 @@
 ---
 ### `Connected Notes`
 
-- [[Frontend Development]]
-- [[Backend Development]]
+- [[Web-Dev (Frontend)]]
+- [[Web-Dev (Backend)]]

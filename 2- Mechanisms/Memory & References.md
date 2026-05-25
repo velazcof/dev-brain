@@ -17,11 +17,8 @@ How memory is allocated, accessed, and reclaimed depends on the execution model 
 ### `Why it Exists`
 
 - To enable programs to **store and retrieve data**
-    
 - To allow **efficient sharing and manipulation** of values
-    
 - To separate **identity** (where data lives) from **representation** (how it is accessed)
-    
 - To support complex data structures and program execution
 
 ---

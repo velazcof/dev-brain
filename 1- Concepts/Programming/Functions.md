@@ -7,13 +7,9 @@ Functions are reusable blocks of code that perform a specific operation and can 
 ### `Key Ideas`
 
 - Encapsulate a specific behavior or computation.
-    
 - Can accept **parameters** and return **outputs**.
-    
 - Improve readability, modularity, and reuse.
-    
 - Execute only when called/invoked.
-    
 - Independent of paradigms — used in procedural, OOP, and functional styles.
 
 ---
