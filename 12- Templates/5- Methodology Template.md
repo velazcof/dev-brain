@@ -9,7 +9,7 @@
 %% Core principles, typical workflow or stages... %%
 
 ---
-### `Challenges`
+### `Pros & Cons`
 
 %% Common misconceptions, limits, or trade-offs. %%
 

@@ -16,11 +16,8 @@ This selection process balances competing demands while respecting system polici
 ### `Why It Exists`
 
 - To enable **concurrent execution** of multiple workloads
-    
 - To ensure **fair and controlled CPU usage**
-    
 - To balance **responsiveness and throughput**
-    
 - To prevent starvation and maintain system stability
 
 ---
