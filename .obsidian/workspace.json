@@ -18,23 +18,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "0d248d73b91b2c0a",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "aFile": "12- Templates/11- Cheatsheet Template.md",
-                "bFile": "12- Templates/11- Cheatsheet Template.md",
-                "aRef": ""
-              },
-              "icon": "git-pull-request",
-              "title": "Diff: 11- Cheatsheet Template"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d248d73b91b2c0a",
+  "active": "1a0898386f26b1b6",
   "lastOpenFiles": [
+    "3- Technologies/Android.md",
     "2- Mechanisms/Application Server.md",
     "5- Methodologies/Shadow Deployment.md",
     "1- Concepts/Deployment Strategies.md",
@@ -221,7 +207,6 @@
     "2- Mechanisms/Database/Write-Ahead Logging.md",
     "2- Mechanisms/Programming/Interpreted Languages.md",
     "2- Mechanisms/Messages/Publish–Subscribe.md",
-    "2- Mechanisms/Database/Query Planner.md",
     "2- Mechanisms/Messages",
     "2- Mechanisms/OS",
     "2- Mechanisms/Database",
