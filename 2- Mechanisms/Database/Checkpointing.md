@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Checkpointing** is a recovery mechanism that periodically writes a consistent snapshot of in-memory database state to persistent storage. It reduces the amount of log replay required during crash recovery.
 
 ---

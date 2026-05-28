@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **YaST (Yet another Setup Tool)** is a **system administration tool** used in SUSE-based Linux distributions to configure and manage system components through a unified interface.  
 
 It provides both **graphical and text-based** tools for administering packages, users, services, networking, storage, and system settings.

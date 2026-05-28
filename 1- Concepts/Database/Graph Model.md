@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Graph Model** is a database model that represents data as nodes and relationships, where connections between entities are treated as first-class elements. It is designed to model and traverse complex, interconnected data structures efficiently.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Sets are **abstract data structures** that store **unique elements** without guaranteed ordering. They model membership rather than position, focusing on whether an element exists rather than where it is located.
 
 ---

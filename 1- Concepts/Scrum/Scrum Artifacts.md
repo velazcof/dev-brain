@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Scrum Artifacts** are the **key information containers** that provide transparency into the product development process.
 
 They exist to ensure that all stakeholders share a common understanding of **what is being built**, **what’s in progress**, and **what’s been completed**.

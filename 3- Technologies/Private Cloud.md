@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Private Cloud** is a cloud computing model where the **infrastructure is dedicated to a single organization**. Unlike the Public Cloud, resources are **not shared** with other tenants and can be hosted either **on-premises** or by a third-party provider in an isolated environment.
 
 It offers the scalability and automation of the cloud but with greater **control, security, and customization**.

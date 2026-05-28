@@ -1,6 +1,4 @@
 
-### `Definition`
-
 An **Operating System (OS)** is foundational system software that manages hardware resources and provides core services that allow applications to run. It acts as the bridge between programs and the computer’s hardware, ensuring safety, efficiency, and controlled execution.
 
 ---

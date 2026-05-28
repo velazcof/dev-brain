@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Cloud Service Models** describe the levels of abstraction in cloud computing — from raw infrastructure to fully managed software. They define **how much control the user has** versus **how much is managed by the cloud provider**.  
 
 The three core models are **IaaS**, **PaaS**, and **SaaS**, which form a spectrum from complexity to simplicity.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Wide-Column Model** (also known as the Column-Family Model) is a database model that organizes data into rows identified by a primary key, where each row can contain a flexible and potentially large set of columns grouped into families.
 
 It is designed for distributed systems that prioritize scalability and partition-based data access.

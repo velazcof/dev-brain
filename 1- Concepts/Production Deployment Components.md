@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Production deployment components** are the core infrastructure elements required to run an application reliably in a live environment. They handle traffic routing, security, execution of application logic, data storage, and system availability for real users.
 
 ---

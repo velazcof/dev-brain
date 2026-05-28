@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Backlog Refinement** (formerly _Backlog Grooming_) is the **process of reviewing, prioritizing, and preparing items** in the Product Backlog to ensure they are clear, properly sized, and ready for future sprints.
 
 It’s a collaborative activity led by the **Product Owner**, supported by the **Scrum Master** and optionally a few technical team members.

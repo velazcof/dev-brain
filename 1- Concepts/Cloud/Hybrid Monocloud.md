@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Hybrid Monocloud** combines **public and private environments** from the **same cloud provider** — for example, using **AWS Cloud** and **AWS Outposts** together.
 
 It merges the control of private infrastructure with the convenience and scale of a single provider’s public services.

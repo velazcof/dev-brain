@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Actionable Metrics** are **meaningful, outcome-focused measurements** that provide insight into how effectively a system or team is performing — and guide specific improvements. Unlike vanity metrics (which look impressive but don’t drive change), actionable metrics reflect the _health and efficiency_ of software delivery.
 
 ---

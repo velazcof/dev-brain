@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Constants** are named bindings whose **associated value cannot be changed after initialization**. They represent fixed values in a program, providing safety, clarity, and intent by preventing accidental modification.
 
 ---

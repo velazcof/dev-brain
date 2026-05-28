@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A conceptual model describing how software components are retrieved, installed, updated, configured, and removed in a controlled and repeatable way. It governs how systems and projects manage external software dependencies over time.
 
 ---

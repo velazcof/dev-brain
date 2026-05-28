@@ -1,6 +1,4 @@
 
-### `Definition`
-
 AWS Amplify is a **Backend as a Service (BaaS) platform** provided by Amazon Web Services that helps developers build and deploy full-stack web and mobile applications using managed cloud services.
 
 It provides tools and services for **authentication, APIs, databases, storage, and hosting**, integrating with the broader AWS ecosystem while simplifying backend infrastructure management.

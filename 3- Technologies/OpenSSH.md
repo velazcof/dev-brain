@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **OpenSSH** is a **secure remote access and communication technology** that implements the SSH protocol to provide encrypted connections for remote login, command execution, file transfer, and tunneling.
 
 ---

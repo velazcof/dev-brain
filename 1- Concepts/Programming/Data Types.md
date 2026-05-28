@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Data types** define the **kind of values** a program can work with and the **operations that are valid** on those values. They establish meaning, constraints, and expectations for how data is represented and manipulated in a program.
 
 ---

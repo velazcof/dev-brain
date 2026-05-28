@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Continuous Integration (CI)** is a **software development methodology** where developers frequently integrate code changes into a shared repository. 
 
 Each integration triggers an **automated build and test process**, ensuring the codebase remains functional and stable. The goal is to detect errors early, reduce merge conflicts, and maintain a deployable codebase at all times.

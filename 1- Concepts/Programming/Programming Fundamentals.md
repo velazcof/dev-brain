@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Programming fundamentals are the essential building blocks shared across all programming languages. They describe the core structures, behaviors, and concepts required to write, understand, and reason about any program.
 
 ---

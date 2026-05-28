@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Apache Kafka** is a **distributed event streaming platform** used to **publish, store, and process streams of events** at high throughput with strong durability and replay capabilities. It is designed around **append-only logs** rather than traditional message queues.
 
 ---

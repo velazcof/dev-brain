@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **JanusGraph** is a distributed graph database management system designed to store and query large-scale graph data across multiple machines. It is typically used when graph workloads must scale horizontally and integrate with distributed storage backends.
 
 ---

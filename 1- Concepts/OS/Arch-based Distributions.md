@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Arch-based distributions** are Linux operating systems derived from or inspired by **Arch Linux**, inheriting its rolling-release model, pacman-based package management, and KISS (Keep It Simple, Stupid) philosophy.
 
 These distros vary in difficulty, tooling, and user experience — from fully DIY to beginner-friendly derivatives.

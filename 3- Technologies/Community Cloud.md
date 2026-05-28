@@ -1,4 +1,3 @@
-### `Definition`
 
 A **Community Cloud** is a cloud deployment model designed for **exclusive use by a specific group of organizations** that share **common concerns** — such as security, compliance, mission, or policy requirements.
 

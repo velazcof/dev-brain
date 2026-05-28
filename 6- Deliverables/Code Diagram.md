@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A Code Diagram is the most detailed level of the C4 Model, illustrating the internal structure of a component at the code level. It typically shows classes, interfaces, modules, or functions and the relationships between them.
 
 ---

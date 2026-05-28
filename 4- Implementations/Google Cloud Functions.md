@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Google Cloud Functions is a **serverless execution environment** provided by Google Cloud Platform that allows developers to run **event-driven functions** without managing servers or infrastructure.
 
 It implements the **Function as a Service (FaaS)** model, automatically scaling functions in response to events such as HTTP requests, messaging events, or storage changes, while charging only for the compute time used.

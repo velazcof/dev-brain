@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Different **deployment and pricing models** offered by cloud providers for running virtual machines. They define how compute resources are **allocated, billed, and managed** depending on the workload’s needs and stability.
 
 ---

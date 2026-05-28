@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Virtual machines that run on **multi-tenant hardware**, where physical servers are **shared across multiple customers** through virtualization.
 
 ---

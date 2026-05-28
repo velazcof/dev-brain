@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Transaction Management** is the mechanism that coordinates transactions so database operations behave as a single unit of work under concurrency. It governs how work is grouped, committed, or rolled back while maintaining safe interaction between simultaneous transactions.
 
 ---

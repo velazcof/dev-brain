@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **AlmaLinux** is a **free, open-source, enterprise-grade Linux distribution** designed to be **binary-compatible with Red Hat Enterprise Linux (RHEL)**.
 
 It was created as a **stable CentOS Linux replacement**, backed by the **AlmaLinux OS Foundation**, with a focus on **long-term stability, community governance, and enterprise workloads**.

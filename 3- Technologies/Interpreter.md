@@ -1,6 +1,4 @@
 
-### `Definition`
-
 An **interpreter** is a software tool that **executes source code directly** without producing a standalone compiled binary. It reads code, analyzes it, and performs operations on the fly, enabling rapid development, dynamic behavior, and interactive execution.
 
 ---

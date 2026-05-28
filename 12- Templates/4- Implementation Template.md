@@ -1,6 +1,4 @@
 
-### `Definition`
-
 %% What this tool/framework does and when to use it. %%
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **SQL Parser** is the mechanism that reads an SQL statement and converts it into a structured internal representation that a database system can reason about. It validates that the input conforms to the rules of the SQL language and produces a form suitable for planning.
 
 ---

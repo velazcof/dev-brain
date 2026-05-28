@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The Python Runtime is the **execution environment responsible for running Python programs**. It interprets Python code, manages memory, executes bytecode instructions, and provides the core services required for program execution.
 
 It acts as the layer that **translates Python source code into operations performed by the underlying operating system and hardware**.

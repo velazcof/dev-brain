@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Amazon Simple Notification Service (SNS)** is a **fully managed publish–subscribe messaging service** provided by AWS that enables applications to **broadcast messages to multiple subscribers**.
 
 It is designed for **event notification and fan-out messaging**, not task processing.

@@ -1,4 +1,3 @@
-### `Definition`
 
 **Cloud Computing** is the **domain** of technology focused on delivering computing services — including servers, storage, databases, networking, and software — **over the internet**.
 

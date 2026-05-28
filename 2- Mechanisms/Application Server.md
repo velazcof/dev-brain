@@ -1,6 +1,4 @@
 
-### `Definition`
-
 An **application server** is a **system mechanism** responsible for **executing server-side application logic** and coordinating interactions between clients, infrastructure services, and data stores.
 
 It enables applications to separate **business behavior** from presentation and persistence concerns.

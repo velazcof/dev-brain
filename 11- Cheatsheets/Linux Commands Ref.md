@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A practical reference for commonly used **Linux command-line utilities**, grouped by purpose, showing what each command does and how it’s typically used in everyday terminal work.
 
 ---

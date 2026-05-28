@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **DNF (Dandified YUM)** is a **high-level package management tool** for RPM-based Linux distributions.  
 It installs, updates, and removes software packages from repositories while automatically resolving dependencies.
 

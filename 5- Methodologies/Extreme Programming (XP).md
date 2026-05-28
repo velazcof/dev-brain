@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Extreme Programming (XP)** is an **Agile software development methodology** that emphasizes **high-quality code, continuous feedback, and close collaboration** between developers and customers.
 
 It aims to improve responsiveness to changing requirements through short cycles, frequent releases, and technical excellence.

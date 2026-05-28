@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Database Clients & Tools** are external software components that enable users and applications to communicate with a database system. They provide interfaces for sending queries, managing connections, and interacting with database functionality.
 
 ---

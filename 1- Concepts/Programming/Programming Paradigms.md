@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Programming paradigms are the fundamental styles or philosophies of structuring and organizing programs. They define how code is written, how behavior is modeled, and how data and functions interact.
 
 ---

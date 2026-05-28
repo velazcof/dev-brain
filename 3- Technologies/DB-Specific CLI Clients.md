@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **DB-Specific CLI Clients** are command-line tools designed to interact with a single database system. They provide direct access to the database engine using its native protocol and query language.
 
 ---

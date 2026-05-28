@@ -1,4 +1,3 @@
-### `Definition`
 
 **Labels** in user stories are **categorical tags** that help teams classify and organize different types of work within the **Product Backlog**.  
 They make it easier to prioritize, track, and balance efforts between customer features, technical improvements, and maintenance.

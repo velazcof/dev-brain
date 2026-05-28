@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **SQL Server Management Studio (SSMS)** is a graphical client designed specifically for managing and querying Microsoft SQL Server. It is commonly used in enterprise environments for database development, administration, and performance monitoring.
 
 ---

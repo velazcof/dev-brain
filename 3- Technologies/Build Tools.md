@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Build tools** are programs that **automate the process of compiling, linking, packaging, and deploying software**. They handle repetitive tasks — from transforming source code into executable artifacts to running tests and managing dependencies.
 
 ---

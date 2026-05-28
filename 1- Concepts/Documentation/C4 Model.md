@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The C4 Model is a modern, visual approach to software architecture documentation that represents a system at four hierarchical levels: context, containers, components, and code. It provides a clear, scalable way to describe software architecture without the complexity of UML.
 
 ---

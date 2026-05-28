@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **iOS** is a **mobile operating system platform** developed by Apple for its mobile devices, defining a tightly integrated **OS architecture, application model, security framework, and hardware-software ecosystem**.
 
 It represents a **closed, vertically integrated OS platform**, where hardware, operating system, APIs, and distribution are all controlled by Apple.

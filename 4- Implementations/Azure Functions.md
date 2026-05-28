@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Azure Functions is a **serverless compute service** provided by Microsoft Azure that allows developers to run **event-driven code without managing infrastructure**.
 
 It implements the **Function as a Service (FaaS)** model, automatically scaling functions in response to events such as HTTP requests, timers, or service triggers while charging based on execution and resource usage.

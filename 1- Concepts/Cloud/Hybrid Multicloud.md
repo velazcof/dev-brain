@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Hybrid Multicloud** architecture connects **multiple public clouds** with **private or on-prem infrastructure**, forming a mix of environments across **different providers**.
 
 It’s the most flexible hybrid setup — blending private control with diverse public cloud services.

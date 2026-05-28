@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Pacman** is the **package manager implementation** used by Arch Linux and Arch-based distributions. It is responsible for installing, updating, removing, and managing software packages while handling dependencies and system integration.
 
 ---

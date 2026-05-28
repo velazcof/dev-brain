@@ -1,4 +1,3 @@
-### `Definition`
 
 The **development environment** is where developers write, modify, and experiment with code. It is optimized for rapid iteration and debugging rather than stability or performance.
 

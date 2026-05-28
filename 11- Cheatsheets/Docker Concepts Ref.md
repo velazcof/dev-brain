@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A quick reference for core **Docker concepts and mental models**, explaining how Docker works under the hood (images, containers, registries, layers, etc.) and how these pieces interact.
 
 ---

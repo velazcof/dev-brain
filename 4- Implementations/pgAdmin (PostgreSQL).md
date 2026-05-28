@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **pgAdmin** is a graphical client specifically designed for managing and querying PostgreSQL databases. It provides tools for database administration, query execution, and schema exploration within the PostgreSQL ecosystem.
 
 ---

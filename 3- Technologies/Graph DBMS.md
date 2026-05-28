@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Graph DBMS** is a database management system that implements the graph model for storing and managing data. It represents data as nodes and relationships, optimized for traversing and analyzing connections between entities.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Windows Server Editions** are Microsoft’s server-focused operating systems designed for enterprise workloads, infrastructure hosting, identity management, virtualization, and large-scale deployments.
 
 ---

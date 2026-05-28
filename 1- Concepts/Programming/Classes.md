@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **class** is a blueprint that defines the **structure and behavior** of objects. It specifies what data an object can hold and what operations it can perform, without representing a concrete instance itself.
 
 ---

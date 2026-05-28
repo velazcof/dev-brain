@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Branching** is the mechanism by which a program **diverges execution into different paths** based on evaluated conditions.
 
 ---

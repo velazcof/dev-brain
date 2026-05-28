@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **GUI Database Clients** are graphical applications that allow users to interact with a database system through visual interfaces. They provide tools for querying data, browsing database structures, and performing administrative tasks without relying on command-line interaction.
 
 ---

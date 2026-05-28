@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Database Locking** is the mechanism that controls concurrent access to data by restricting how multiple transactions read or modify shared resources. It prevents conflicting operations from corrupting data or violating isolation guarantees.
 
 ---

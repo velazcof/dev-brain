@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Write-Ahead Logging (WAL)** is a durability mechanism that records changes to a log before applying them to the main data files. It ensures that committed transactions can be recovered even if a system failure occurs.
 
 ---

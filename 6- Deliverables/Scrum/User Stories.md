@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **User Story** is a **short, simple description of a feature or requirement** written from the perspective of the end user. It captures _who_ needs something, _what_ they need, and _why_ — emphasizing **business value** rather than technical detail.
 
 ---

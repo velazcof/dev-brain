@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **SAML** **(Security Assertion Markup Language)** is an **XML-based open standard** for exchanging authentication and authorization data between an identity provider (IdP) and a service provider (SP).
 
 ---

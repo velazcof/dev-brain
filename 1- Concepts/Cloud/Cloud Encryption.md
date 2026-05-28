@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Cloud Encryption** is the process of **encoding data stored or transmitted in cloud environments** so that it remains unreadable to unauthorized parties.
 
 It ensures that only entities possessing the correct **cryptographic keys** can access or decrypt the information.

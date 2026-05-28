@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **terminal** is a **user-space application** that provides a **text-based interface** for interacting with an operating system. It displays input and output for command execution and serves as the environment in which a **shell** runs.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Microservices Architecture** is an architectural pattern where a system is composed of **small, independently deployable services**, each responsible for a single business capability.  
 
 Microservices communicate over lightweight protocols (often HTTP or messaging) and can be developed, deployed, and scaled independently.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **User Requirements Specification (URS)** defines the **needs and expectations of end users** for a software system. It focuses on **what users want to achieve**, rather than how the system will implement those goals, making it the most user-centered form of requirement documentation.
 
 ---

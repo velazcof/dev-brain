@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Microsoft SQL Server** is a relational database management system developed by Microsoft for storing, managing, and querying structured data. It is commonly used in enterprise environments, especially within ecosystems that rely on Microsoft technologies.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Software Design** is the **process of transforming requirements into a structured blueprint** for how a software system will function and interact. It defines the **architecture, components, interfaces, and data flow** necessary to meet functional and non-functional requirements.
 
 ---

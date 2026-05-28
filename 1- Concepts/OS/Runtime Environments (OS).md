@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **runtime environment** is the software layer that provides the **execution context** an application needs to run — including libraries, system APIs, memory management helpers, and environmental configuration.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Debian-based distributions** are Linux operating systems that originate from or are built on top of **Debian**, inheriting its `.deb` package format, APT-based package management, stability model, and filesystem conventions.
 
 These distros share a common foundation but differ in goals, user experience, release cycles, and target audiences.

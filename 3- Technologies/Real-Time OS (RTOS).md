@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Real-Time Operating System (RTOS)** is an operating system designed to provide **deterministic and predictable timing behavior**, ensuring that tasks respond within **guaranteed time constraints**.
 
 The primary goal of an RTOS is **meeting deadlines**, not maximizing throughput or user convenience.

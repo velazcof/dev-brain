@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A Kubernetes Service is a mechanism responsible for **providing stable network access to a group of pods within a Kubernetes cluster**.
 
 It creates an abstraction layer over pods, allowing workloads to communicate reliably without depending on individual pod identities or lifecycle changes.

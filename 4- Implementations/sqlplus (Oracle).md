@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **sqlplus** is the command-line client used to interact with Oracle Database systems. It allows users to execute SQL and PL/SQL statements, run scripts, and perform administrative tasks directly from a terminal.
 
 ---

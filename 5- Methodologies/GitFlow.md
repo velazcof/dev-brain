@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Gitflow** is a branching methodology for Git that organizes development work using long-lived branches and structured workflows. It separates feature development, releases, and hotfixes into clearly defined branch types to support teams with planned release cycles.
 
 ---

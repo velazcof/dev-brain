@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Kubernetes **anti**-**patterns** are implementation approaches and operational decisions that appear effective initially but introduce instability, operational complexity, scalability issues, or maintainability problems within Kubernetes environments.
 
 Avoiding anti-patterns improves reliability, deployment consistency, and long-term maintainability of containerized systems.

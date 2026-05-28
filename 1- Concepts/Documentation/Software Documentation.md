@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Software Documentation** is the collection of written, visual, or multimedia materials that **describe a software product and its development process**.  
 It communicates what the software does, how it’s built, and how to use or maintain it — serving both **technical teams** and **end users**.
 

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Control flow** is a **mechanism that determines the order in which instructions are executed** within a program. It governs how execution progresses, branches, repeats, or terminates based on logic and state.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Caching Policies** are mechanisms that define how pages are retained, prioritized, and evicted within the buffer pool. They determine how memory is allocated to balance performance and resource usage.
 
 ---

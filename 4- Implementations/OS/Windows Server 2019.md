@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Windows Server 2019**, released in 2018, builds on Windows Server 2016 with a focus on **hybrid cloud**, **security**, and **software-defined datacenter capabilities**. It serves as a bridge between on-prem infrastructure and Azure, making it one of the most widely adopted modern Server versions.
 
 ---

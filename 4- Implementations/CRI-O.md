@@ -1,6 +1,4 @@
 
-### `Definition`
-
 CRI-O is a **container runtime designed specifically for Kubernetes**, responsible for running and managing containers within Kubernetes clusters. It implements the **Container Runtime Interface (CRI)**, allowing Kubernetes to interact with container runtimes in a standardized way.
 
 Unlike general-purpose container platforms, CRI-O focuses solely on **providing the minimal runtime functionality required for Kubernetes container execution**.

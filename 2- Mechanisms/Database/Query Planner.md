@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Query Planner** is the mechanism that determines how a parsed query should be executed by generating possible execution strategies. It transforms a structured query representation into one or more candidate execution plans.
 
 ---

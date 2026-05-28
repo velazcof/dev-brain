@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Identity and Access Management (IAM)** is a **security discipline** that ensures the right individuals and systems have the appropriate access to technology resources.  
 
 It governs how identities are created, authenticated, authorized, and audited across an organization or cloud environment.

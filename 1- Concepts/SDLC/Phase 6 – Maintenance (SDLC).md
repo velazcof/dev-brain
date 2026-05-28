@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Phase 6 – Maintenance** is the **final stage of the Software Development Life Cycle (SDLC)** where the software is monitored, updated, and improved after deployment. The goal is to ensure that the system continues to function correctly, remains secure, and adapts to evolving business or user needs.
 
 ---

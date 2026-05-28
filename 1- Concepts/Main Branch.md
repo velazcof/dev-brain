@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **main branch** is the authoritative branch of a repository that represents the **stable, deployable version** of the code. It serves as the single source of truth for the current state of the application.
 
 ---

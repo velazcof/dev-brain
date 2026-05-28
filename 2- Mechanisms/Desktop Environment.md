@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **desktop environment (DE)** provides the **graphical workspace and interaction layer** through which users interact with an operating system. It defines how applications, windows, files, and system controls are visually presented and accessed.
 
 ---

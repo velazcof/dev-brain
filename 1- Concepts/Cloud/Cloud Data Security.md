@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Cloud Data Security** is the discipline focused on **protecting data stored, processed, and transmitted within cloud environments**.
 
 It adapts general data security principles to cloud-specific architectures, ensuring data remains **confidential, integral, and available** across public, private, and hybrid clouds.

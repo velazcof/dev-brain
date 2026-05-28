@@ -1,4 +1,3 @@
-### `Definition`
 
 A Kubernetes Pod is a mechanism for **grouping and running one or more containers as a single execution unit within a cluster**. It acts as the smallest deployable unit in Kubernetes.
 

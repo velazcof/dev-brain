@@ -1,6 +1,4 @@
 
-### `Definition`
-
 %% What the language is and what it’s mainly used for. %%
 
 ---

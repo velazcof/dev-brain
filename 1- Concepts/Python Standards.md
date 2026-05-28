@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Python Standards are the **set of formal specifications, conventions, and proposals that define the behavior, evolution, and best practices of the Python language and its ecosystem**.
 
 They ensure consistency across implementations, guide language development, and establish common rules for writing and structuring Python code.

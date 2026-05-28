@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Arrays are fixed-size, contiguous-memory data structures that store elements of the same type. They allow fast, constant-time access through indexing but cannot grow or shrink dynamically.
 
 ---

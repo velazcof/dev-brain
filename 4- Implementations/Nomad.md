@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Nomad is a **workload orchestration platform developed by HashiCorp** that schedules and manages applications across clusters of machines.
 
 It can orchestrate multiple types of workloads, including **containers, virtual machines, and standalone applications**, providing a flexible alternative to container-specific orchestrators.

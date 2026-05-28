@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **BSD (Berkeley Software Distribution)** is a **family of Unix-based operating system platforms** originating from the University of California, Berkeley, and known for **simplicity, correctness, and strong networking foundations**.
 
 BSD serves as the technical and philosophical base for several modern Unix operating systems.

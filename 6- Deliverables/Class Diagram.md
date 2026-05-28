@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A Class Diagram is a UML structural diagram that models the classes in a system, their attributes, methods, and the relationships between them. It provides a static view of the system’s structure.
 
 ---

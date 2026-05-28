@@ -1,6 +1,4 @@
 
-### `Definition`
-
 An A/B Testing Deployment is a deployment strategy where **different application versions are simultaneously exposed to different groups of users in order to compare behavior, performance, or user outcomes**.
 
 Traffic distribution is intentionally segmented to evaluate the impact of changes under real usage conditions.

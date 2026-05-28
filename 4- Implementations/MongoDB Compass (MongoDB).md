@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **MongoDB Compass** is a graphical client designed for exploring and managing MongoDB databases. It provides visual tools for querying documents, analyzing schema structures, and managing collections.
 
 ---

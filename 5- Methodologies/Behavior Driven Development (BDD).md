@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Behavior-Driven Development (BDD)** is a software development methodology that focuses on ensuring the team is **building the right thing**, not just building it right. It extends **Test-Driven Development (TDD)** by introducing a shared language (often **Gherkin**) that bridges developers, testers, and stakeholders.
 
 In practice, BDD defines expected system behavior in clear, human-readable scenarios that double as **acceptance criteria**. You first describe what the software _should do_ in natural language, then implement the code and tests to make that behavior real — ensuring alignment between business goals and technical implementation.

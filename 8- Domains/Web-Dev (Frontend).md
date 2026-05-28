@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Frontend Development** is the **domain focused on creating the client-side layer** of web applications — everything users see and interact with in the browser. It merges programming, design, and usability principles to deliver responsive, accessible, and performant interfaces.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Network Diagram** is a **visual representation of network components and their connections**, showing how devices, services, and network segments communicate with each other.
 
 It focuses on **connectivity, topology, and data paths** rather than application logic.

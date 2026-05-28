@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Containers are a **software technology for packaging and running applications in isolated environments** using operating system–level virtualization. They bundle an application together with its runtime dependencies so it can execute consistently across different machines.
 
 Unlike virtual machines, containers share the host operating system kernel, making them **lightweight, fast to start, and efficient in resource usage**.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Database Drivers** are software components that enable applications to communicate with a database system using a standardized interface. They translate application-level calls into the protocol understood by the database engine.
 
 ---

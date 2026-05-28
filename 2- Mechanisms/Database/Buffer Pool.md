@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Buffer Pool** is the in-memory area managed by the database system where database pages are cached for active use. It serves as the primary working memory for data access and modification.
 
 ---

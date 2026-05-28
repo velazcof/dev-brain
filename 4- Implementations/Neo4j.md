@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Neo4j** is a graph database management system designed to store and query highly connected data using the graph model. It is commonly used when relationships between entities are central to the application’s logic.
 
 ---

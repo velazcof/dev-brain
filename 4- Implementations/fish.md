@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Fish (Friendly Interactive SHell)** is a **modern Unix shell** designed primarily for **interactive use**, focusing on **usability, discoverability, and sensible defaults** rather than strict POSIX compatibility.
 
 It aims to work well **out of the box** with minimal configuration.

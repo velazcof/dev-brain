@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **FreeBSD** is a **free and open-source Unix-like operating system** from the **BSD family**, focused on **performance, reliability, and advanced system features**, especially in **servers, networking, and storage**.
 
 It is widely respected for its **robust kernel, cohesive design, and production-grade tooling**.

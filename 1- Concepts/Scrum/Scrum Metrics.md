@@ -1,4 +1,3 @@
-### `Definition`
 
 **Scrum Metrics** are **quantitative indicators** used to measure progress, productivity, and predictability within Scrum teams.  
 They provide transparency into how effectively a team delivers value during and across sprints.

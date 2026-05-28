@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Quality Assurance (QA)** is a discipline within software engineering that ensures software products are developed and delivered according to defined **quality standards** and process best practices.
 
 It focuses on **preventing defects** through process control, continuous improvement, and adherence to standards across the entire Software Development Life Cycle (SDLC).

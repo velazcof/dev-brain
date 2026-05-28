@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Storage Area Network (SAN)** is a **high-performance storage technology** that provides **block-level storage** over a **dedicated network**, allowing servers to access remote storage as if it were locally attached disks.
 
 ---

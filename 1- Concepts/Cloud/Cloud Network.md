@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Cloud Networking** describes how **connectivity, routing, and traffic flow** are designed and managed between cloud resources, on-prem systems, and the internet using **software-defined network constructs**.
 
 It focuses purely on **how things talk to each other** in the cloud.

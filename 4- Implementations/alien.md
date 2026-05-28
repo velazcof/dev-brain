@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **`alien`** is a **Linux command-line utility** used to **convert software packages between different Linux package formats**, most commonly between **DEB** and **RPM**.
 
 It allows packages built for one distribution family to be installed on another when native packages are unavailable.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Scrum Events** are **timeboxed ceremonies** that structure and synchronize the work of a Scrum team. They enable transparency, inspection, and adaptation — the three pillars of Scrum’s empirical process.
 
 ---

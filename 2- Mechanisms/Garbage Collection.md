@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Garbage collection** is the process by which a runtime system **automatically reclaims memory** that is no longer reachable or needed by a program, preventing memory leaks and reducing manual memory management.
 
 ---

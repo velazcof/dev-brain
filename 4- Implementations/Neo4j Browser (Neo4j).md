@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Neo4j Browser** is a graphical client for interacting with Neo4j graph databases through an interactive query and visualization interface. It is primarily used to write Cypher queries and explore graph structures visually.
 
 ---

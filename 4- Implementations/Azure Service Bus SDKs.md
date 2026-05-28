@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Azure Service Bus SDK** is a set of **client libraries** that allow applications to **interact programmatically with Azure Service Bus**, enabling them to send, receive, schedule, and manage messages using queues, topics, and subscriptions.
 
 It is the **application-facing interface** to Azure Service Bus.

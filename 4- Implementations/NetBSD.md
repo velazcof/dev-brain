@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **NetBSD** is a **free and open-source Unix-like operating system** from the **BSD family**, known for its **extreme portability, clean design, and correctness**.
 
 It is designed to run on **a wide range of hardware architectures**, summarized by its motto:

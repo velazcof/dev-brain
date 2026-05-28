@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Declarative Programming** is a programming paradigm where developers specify **what outcome they want**, not **how to achieve it**, leaving the execution details to the underlying system or runtime.
 
 ---

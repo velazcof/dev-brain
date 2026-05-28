@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Apache Camel** is an **open-source integration framework** that enables applications to **route, transform, and mediate messages** between systems using a wide variety of protocols, transports, and data formats.
 
 It is built around **Enterprise Integration Patterns (EIPs)** and is commonly used for **system integration rather than pure messaging**.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Block storage splits data into uniform-sized blocks and stores them separately.  Each block is given a unique address, and the operating system or file system reassembles them into complete files.
 
 ---

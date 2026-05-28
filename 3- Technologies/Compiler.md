@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **compiler** is a software tool that **translates source code written in a high-level language into a lower-level form**, such as machine code, bytecode, or another language. Compilation allows programs to run efficiently and independently of the original source.
 
 ---

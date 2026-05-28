@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **GitHub** is a cloud-based platform that hosts Git repositories and provides collaboration tools such as pull requests, code reviews, issue tracking, and CI/CD integration. It’s used to share, manage, and deploy software projects.
 
 ---

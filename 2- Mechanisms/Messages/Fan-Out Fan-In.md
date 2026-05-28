@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Fan-Out / Fan-In** is a messaging pattern where a single task or message is **split into multiple parallel units of work (fan-out)** and the results are later **collected and combined (fan-in)** into a final outcome.
 
 It enables **parallel processing** while preserving a single logical workflow.

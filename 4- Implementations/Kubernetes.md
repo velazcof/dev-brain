@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Kubernetes is a **container orchestration platform** that automates the deployment, scaling, networking, and management of containerized applications across clusters of machines.
 
 It is designed to run distributed container workloads reliably in production, providing a declarative way to manage application state, availability, and infrastructure resources.

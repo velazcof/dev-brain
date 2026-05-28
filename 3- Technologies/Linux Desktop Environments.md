@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Linux desktop environments** are **integrated graphical user interface platforms** that provide users with a complete desktop experience, including window management, panels, system settings, and core applications.
 
 They define how users visually interact with the Linux operating system.

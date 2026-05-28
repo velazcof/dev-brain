@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **DEB Package Ecosystem** is the software packaging and distribution system used by **Debian** and its derivative Linux distributions. It centers around the **`.deb` package format**, the **dpkg** low-level installer, and the **APT** suite for high-level package management and dependency resolution.
 
 ---

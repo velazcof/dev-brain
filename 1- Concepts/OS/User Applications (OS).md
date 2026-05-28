@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **User applications** are programs that run in user space and provide functionality directly to the end user, such as web browsers, editors, office suites, communication tools, and media players. They rely on OS services but operate independently from system-level components.
 
 ---

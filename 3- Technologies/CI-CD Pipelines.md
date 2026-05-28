@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **CI/CD Pipelines** are **automated workflows** that connect Continuous Integration (CI) and Continuous Delivery (CD) processes, enabling teams to build, test, and deploy software automatically. They ensure code changes move through a consistent, repeatable sequence from development to production with minimal manual intervention.
 
 ![[CI-CD Pipeline.png]]

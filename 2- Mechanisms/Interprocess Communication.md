@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Interprocess communication (IPC)** is the mechanism that allows **separate processes to exchange data and coordinate execution** while remaining isolated from one another. It enables cooperation between independently running programs.
 
 ---

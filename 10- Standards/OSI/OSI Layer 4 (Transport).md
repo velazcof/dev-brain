@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Transport Layer (Layer 4)** of the **OSI Model** defines how data is **reliably delivered** between end systems.  
 It establishes standards for **segmentation, flow control, error recovery, and session multiplexing**, ensuring complete data transfer between applications.
 

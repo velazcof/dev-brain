@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Cloud-Native** is a philosophy and approach to building and running software that fully leverages the **flexibility, scalability, and automation** of cloud environments.  
 
 It’s not just about _where_ applications run, but _how_ they’re designed — emphasizing modularity, resilience, and continuous delivery through technologies like containers, orchestration, and infrastructure as code.

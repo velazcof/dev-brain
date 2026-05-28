@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Shared Responsibility Model (SRM)** is a conceptual framework that defines **how responsibility for security and operations is divided** between a **cloud service provider (CSP)** and the **customer**.
 
 It explains **who is responsible for what** when using cloud services.

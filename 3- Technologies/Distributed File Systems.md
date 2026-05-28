@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Distributed File Systems (DFS)** are **storage technologies** that store and manage files across **multiple networked machines**, while presenting them to users and applications as a **single unified file system**.
 
 They are designed to provide **scalability, fault tolerance, and high availability** beyond what a single machine can offer.

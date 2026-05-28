@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Extents** are contiguous groups of database pages allocated together as a unit within a data file. They are used to manage space allocation efficiently and reduce fragmentation.
 
 ---

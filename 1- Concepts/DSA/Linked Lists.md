@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Linked Lists are **linked data structures** made of nodes where each node stores a value and a reference to the next (and sometimes previous) node. They allow efficient insertions and deletions but have slower indexing compared to arrays or vectors.
 
 ---

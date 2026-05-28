@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **hbase shell** is the command-line interface used to interact with Apache HBase databases. It allows users to create tables, insert and retrieve data, and manage HBase structures through a terminal environment.
 
 ---

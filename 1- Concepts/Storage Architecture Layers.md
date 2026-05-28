@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The storage architecture layer model describes how data moves from an application down to the physical or cloud storage system. Each layer abstracts complexity from the one below it — from high-level application logic down to low-level data blocks or distributed storage objects.
 
 ---

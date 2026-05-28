@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Unix** is a family of **multiuser, multitasking operating systems** originally developed in the 1970s. It introduced foundational OS concepts like process management, hierarchical file systems, permissions, and shell-based interaction. Modern systems such as macOS, BSD variants, and many server OSes descend from or are influenced by Unix design principles.
 
 ---

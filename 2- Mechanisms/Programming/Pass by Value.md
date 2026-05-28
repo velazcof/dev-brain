@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Pass by value** is a parameter-passing behavior where a function receives a **copy of the argument’s value**, rather than direct access to the original value.
 
 ---

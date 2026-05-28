@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Virtual Machine (VM)** is a **software-based simulation of a physical computer** that runs its own operating system and applications independently of the host machine. Multiple VMs can share the same physical hardware through a hypervisor, which manages and isolates them.
 
 ---

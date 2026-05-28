@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **mongosh** is the command-line shell used to interact with MongoDB databases. It allows users to execute document-based queries, manage collections, and perform administrative tasks through a JavaScript-like interface.
 
 ---

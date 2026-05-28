@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Key-Value Model** is a database model that stores data as pairs consisting of a unique key and an associated value. Each key acts as an identifier used to retrieve its corresponding value directly, without predefined structure.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A daemon is a **background process that runs continuously to perform system or application-level tasks without direct user interaction**.
 
 It typically starts at system boot or is launched by other processes, and operates independently to provide services such as networking, scheduling, logging, or resource management.

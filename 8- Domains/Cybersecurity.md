@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Cybersecurity** is the domain focused on **protecting digital systems, networks, and data** from unauthorized access, attacks, and damage.
 
 It encompasses the strategies, processes, and technologies that ensure the **confidentiality, integrity, and availability** of information across on-premise, hybrid, and cloud environments.

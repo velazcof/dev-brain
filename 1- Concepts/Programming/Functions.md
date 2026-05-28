@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Functions are reusable blocks of code that perform a specific operation and can be executed multiple times. They take inputs, process them, and optionally return a value.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 PocketBase is an **open-source Backend as a Service (BaaS)** that provides a lightweight backend for web and mobile applications. It packages a database, authentication system, file storage, and APIs into a single deployable server.
 
 It is designed to provide many backend capabilities typically found in larger BaaS platforms while remaining **self-hosted, minimal, and easy to deploy**.

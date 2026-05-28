@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Linux User Space** refers to all software, tools, libraries, and services that run **outside the kernel** on a Linux system. It forms the **environment in which applications execute**, including shells, system utilities, package managers, desktop environments, init systems, and user applications.
 
 It is what differentiates one **Linux distribution** from another far more than the kernel itself.

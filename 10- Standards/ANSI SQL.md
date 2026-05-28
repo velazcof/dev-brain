@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **ANSI SQL** is the formal standard that defines the syntax, semantics, and core features of the SQL language. It establishes a common specification that database systems can implement to ensure consistent and predictable behavior.
 
 ---

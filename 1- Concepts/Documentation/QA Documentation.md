@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Quality Assurance (QA) Documentation** captures all information related to the **testing strategy, execution, and validation** of a software product. It ensures that software quality objectives are clearly defined, tested, and verified throughout the development lifecycle.
 
 ---

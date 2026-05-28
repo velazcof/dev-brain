@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Windows** is a family of operating systems developed by Microsoft, built on the **Windows NT architecture**. It provides a **graphical user environment**, broad hardware support, enterprise-grade tools, and a consistent application platform across desktop, server, and specialized editions.
 
 ---

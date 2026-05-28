@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Monolithic Architecture** is a software design pattern in which all parts of an application — user interface, business logic, data access, and supporting modules — are packaged and deployed as a **single unified unit**.  
 
 All functionality runs inside one codebase and one process.

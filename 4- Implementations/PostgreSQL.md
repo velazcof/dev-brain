@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **PostgreSQL** is an open-source relational database management system used for storing and querying structured data with strong transactional reliability. Use it when you want a dependable SQL database for backend applications, reporting, or general-purpose data storage.
 
 ---

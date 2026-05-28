@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Git workflows** are structured approaches that define how branches, commits, merges, and reviews are used together to manage development in a Git-based project. They provide conventions that help teams collaborate safely and consistently.
 
 ---

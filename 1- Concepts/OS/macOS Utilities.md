@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **macOS Utilities** are the collection of **built-in command-line tools and system utilities** provided by macOS to interact with the operating system, manage files, inspect system state, and perform administrative tasks.  
 
 They form the core of macOS’s UNIX-style user-space tooling.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A Recreate Deployment is a deployment strategy where the **current application version is completely shut down before the new version is deployed**. Only one version of the application exists at a time during the deployment process.
 
 ---

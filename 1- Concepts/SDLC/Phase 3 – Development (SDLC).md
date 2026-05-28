@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Phase 3 – Development** is the stage of the **Software Development Life Cycle (SDLC)** where the system’s design is **translated into executable code**.  
 Developers implement features, integrate components, and prepare the product for testing based on approved design and requirements documents.
 

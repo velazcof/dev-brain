@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Windows 11**, released in 2021, is the current generation desktop operating system built on the Windows NT 10.x architecture. It modernizes the Windows experience with a redesigned UI, improved security baseline, and deep integration with cloud services and productivity workflows.
 
 ---

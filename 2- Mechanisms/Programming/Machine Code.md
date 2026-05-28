@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Machine code** represents the **direct instruction format executed by a CPU**, consisting of binary-encoded operations that control hardware behavior. It defines the lowest execution layer through which software interacts with processor hardware.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Sprint Review** is a **Scrum event held at the end of each sprint** where the team **demonstrates the working product increment** to stakeholders. It’s a live, collaborative session focused on showing completed features, gathering feedback, and adapting the Product Backlog for future sprints.
 
 This meeting marks the **end of the sprint’s development cycle** and celebrates progress while informing what comes next.

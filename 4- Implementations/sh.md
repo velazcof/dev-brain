@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **`sh` (the Bourne shell)** is the **standard, minimal Unix shell** defined by **POSIX**, serving as the **baseline command interpreter** for Unix-like operating systems.
 
 It represents the **lowest common denominator** of shell behavior that systems and scripts can reliably depend on.

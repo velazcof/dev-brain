@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **redis-cli** is the command-line client used to interact with Redis databases. It allows users to execute Redis commands, inspect keys, and perform administrative tasks directly from a terminal.
 
 ---

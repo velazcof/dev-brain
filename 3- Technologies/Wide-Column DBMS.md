@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Key-Value DBMS** is a database management system that implements the key-value model for storing and retrieving data. It organizes data as simple key–value pairs, where each unique key maps to a single associated value.
 
 ---

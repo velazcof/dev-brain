@@ -1,6 +1,4 @@
 
-### `Definition`
-
 An **Increment** is the **sum of all completed Product Backlog items** that meet the **Definition of Done** at the end of a sprint.  It represents a **usable, potentially shippable product** that adds tangible value to the overall product goal.
 
 ---

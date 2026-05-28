@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Page Replacement Algorithms** are mechanisms that determine which database pages should be evicted from the buffer pool when memory space is needed. They help manage limited memory efficiently while minimizing performance degradation.
 
 ---

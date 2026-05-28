@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A Kubernetes Job is a mechanism responsible for **running a workload until it completes successfully**. Unlike Deployments or ReplicaSets, which maintain continuously running applications, Jobs are designed for tasks that execute, finish, and then stop.
 
 ---

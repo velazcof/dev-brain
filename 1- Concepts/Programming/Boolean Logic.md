@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Boolean Logic** is a **logical system** that operates on binary values — **True** or **False** — forming the foundation of all computer decision-making.
 
 ---

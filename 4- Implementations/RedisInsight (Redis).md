@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **RedisInsight** is a graphical client designed for managing and monitoring Redis databases. It provides visual tools for inspecting keys, analyzing memory usage, and executing commands.
 
 ---

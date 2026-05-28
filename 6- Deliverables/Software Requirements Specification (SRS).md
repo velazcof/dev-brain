@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Software Requirements Specification (SRS)** is a detailed document that defines **what a software system must do** and the **constraints** under which it operates.  
 
 It serves as a **contract** between stakeholders and developers, ensuring everyone shares a clear, testable understanding of the product’s goals and behaviors.

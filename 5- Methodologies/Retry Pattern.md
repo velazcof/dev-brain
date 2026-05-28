@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Retry Pattern** is a **design pattern** used in software systems where an operation that fails is **automatically re-attempted**, based on defined rules, in order to handle **transient or temporary failures**.
 
 ---

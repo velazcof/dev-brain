@@ -1,6 +1,4 @@
 
-### `Definition`
-
 UML diagrams are standardized visual models used to represent the structure and behavior of a software system. They help communicate design decisions clearly using a universal notation understood across the industry.
 
 ---

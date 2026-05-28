@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Messaging Patterns** are **reusable communication models** that describe **how messages are exchanged, routed, and processed** between components in a distributed system.
 
 They capture _common solutions_ to recurring messaging problems, independent of any specific technology or tool.

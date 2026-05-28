@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **CLI Database Clients** are command-line tools used to interact with database systems through textual commands. They allow users to execute queries, manage database objects, and perform administrative tasks directly from a terminal interface.
 
 ---

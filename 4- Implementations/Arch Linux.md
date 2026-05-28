@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Arch Linux** is a lightweight, flexible, rolling-release Linux distribution designed for users who want **full control over their system**. It provides a minimal base, leaving all configuration, package choices, and system behavior entirely up to the user.
 
 ---

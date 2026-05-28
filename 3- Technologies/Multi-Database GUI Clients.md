@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Multi-Database GUI Clients** are graphical database tools that support connections to multiple database systems through a unified interface. They allow users to manage and query different DBMS implementations from a single application.
 
 ---

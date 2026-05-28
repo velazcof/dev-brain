@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Database High Availability** refers to the architectural design and operational strategies used to ensure that a database system remains accessible with minimal downtime. It focuses on reducing service interruptions caused by hardware failures, software crashes, or network issues.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **clone** is a **mechanism for creating a complete local replica of a repository**, including its files and history, from an existing source. It enables independent local interaction with a version-controlled codebase.
 
 ---

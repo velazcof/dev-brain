@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Cloud Security** is the discipline focused on **protecting cloud-based data, services, and infrastructure** from unauthorized access, attacks, and misconfigurations.
 
 It applies cybersecurity principles to public, private, and hybrid cloud environments to ensure **confidentiality, integrity, and availability**.

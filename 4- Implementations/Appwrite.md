@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Appwrite is an **open-source Backend as a Service (BaaS)** platform that provides backend infrastructure and services for building web, mobile, and server applications.
 
 It offers features such as databases, authentication, storage, functions, and APIs, allowing developers to build applications without implementing a full backend while retaining the option to **self-host the platform**.

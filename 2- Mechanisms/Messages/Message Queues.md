@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Message Queues** are a messaging mechanism where **messages are sent to a queue and processed by exactly one consumer**. They enable asynchronous, decoupled work distribution between producers and workers.
 
 ---

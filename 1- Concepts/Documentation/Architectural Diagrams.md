@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Architectural diagrams visually depict the structure of a software system, showing its major components and how they interact. They provide a high-level representation of the system’s architecture.
 
 ---

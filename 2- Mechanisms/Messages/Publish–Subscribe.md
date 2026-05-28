@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Publish–Subscribe (Pub/Sub)** is a messaging pattern where **producers publish messages to a topic**, and **multiple independent consumers receive a copy** of each message by subscribing to that topic.
 
 Publishers and subscribers are **fully decoupled** and unaware of each other.

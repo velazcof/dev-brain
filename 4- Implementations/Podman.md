@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Podman is a **container platform** that allows developers to build, run, and manage containers and container images. It is designed as a **daemonless alternative to Docker**, enabling containers to run directly as processes on the host system.
 
 Podman is commonly used in **Linux and enterprise environments**, particularly within the Red Hat ecosystem, and supports running containers in **rootless mode for improved security**.

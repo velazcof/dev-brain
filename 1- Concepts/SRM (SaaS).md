@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Shared Responsibility Model (SaaS)** explains how **security and operational responsibilities are divided** between the **cloud provider** and the **customer** when using **Software-as-a-Service**.
 
 In SaaS, the provider manages **almost the entire stack**, while the customer focuses primarily on **data, access, and usage**.

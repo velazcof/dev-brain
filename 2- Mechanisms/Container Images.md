@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Container images are **immutable, layered packages that encapsulate an application and all the dependencies required to run it inside a container**. They act as the blueprint from which container instances are created by a container runtime.
 
 Rather than representing a running system, a container image defines the **filesystem, runtime environment, and configuration** needed for a containerized application.

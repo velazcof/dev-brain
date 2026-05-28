@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Virtual Private Cloud (VPC)** is a logically isolated network environment **within a public cloud provider’s infrastructure**. It lets you define and control your own virtual network — including IP ranges, subnets, routing, and security — while still benefiting from the **scalability and cost efficiency** of the public cloud. 
 
 Essentially, it’s your **private data center inside the public cloud**.

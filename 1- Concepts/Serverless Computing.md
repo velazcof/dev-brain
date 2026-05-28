@@ -1,4 +1,3 @@
-### `Definition`
 
 **Serverless computing** is a **cloud computing paradigm** where developers run code without managing servers or infrastructure. The cloud provider automatically provisions resources, scales on demand, and bills only for actual execution time.
 

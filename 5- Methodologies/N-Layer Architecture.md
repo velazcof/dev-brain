@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Layered Architecture** organizes a software system into distinct layers — such as presentation, business logic, and data access — where each layer has a focused responsibility and communicates only with its adjacent layers.  
 
 It is one of the most widely used architectural patterns in enterprise systems.

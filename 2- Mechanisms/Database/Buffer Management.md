@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Buffer Management** is the mechanism that controls how database pages are loaded into memory, cached, and written back to disk. It optimizes the interaction between memory and persistent storage to improve performance.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 %% What this domain encompasses and focuses on. %%
 
 ---

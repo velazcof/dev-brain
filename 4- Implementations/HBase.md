@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Apache HBase** is a distributed wide-column database management system built on top of a distributed file system. It is designed for storing and processing large-scale datasets across clusters of machines.
 
 ---

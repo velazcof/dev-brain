@@ -1,6 +1,4 @@
 
-### `Definition`
-
 An **Epic** is a **large body of work** that cannot be completed within a single sprint.  
 It represents a **broad business objective** or **feature area** that is later divided into smaller, manageable **User Stories**.
 

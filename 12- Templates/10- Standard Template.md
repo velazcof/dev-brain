@@ -1,6 +1,4 @@
 
-### `Definition`
-
 %% What the standard defines or establishes. %%
 
 ---

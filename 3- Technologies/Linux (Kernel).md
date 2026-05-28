@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Linux** is an open-source **operating system kernel** that forms the core of many modern operating systems, commonly known as _Linux distributions_ (Ubuntu, Fedora, Debian, etc.). These systems combine the Linux kernel with additional utilities, libraries, shells, and package managers to create a complete OS.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Acknowledgements** define how and when a consumer **confirms successful processing of a message** to the messaging system.
 
 They determine whether a message is considered completed, retried, or redelivered.

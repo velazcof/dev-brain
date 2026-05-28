@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Design for Failure** is a **resilience principle** in system architecture that assumes every component will eventually fail — networks will drop, servers will crash, dependencies will become unavailable — and systems should be **designed to recover gracefully**, not merely avoid failure.
 
 ---

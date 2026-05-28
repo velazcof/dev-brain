@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **commit** is a **mechanism for recording a snapshot of changes** in a version control system, capturing a deliberate state of the codebase at a specific point in time.
 
 It represents an intentional unit of progress within a project’s history.

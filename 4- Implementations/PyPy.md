@@ -1,6 +1,4 @@
 
-### `Definition`
-
 PyPy is an **alternative implementation of the Python runtime** designed for improved performance through **Just-In-Time (JIT) compilation**.
 
 It executes Python programs by dynamically compiling frequently used code paths into machine code at runtime, allowing faster execution compared to traditional interpreted approaches.

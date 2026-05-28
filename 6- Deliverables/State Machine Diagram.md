@@ -1,6 +1,4 @@
 
-### `Definition`
-
 State machine diagrams model how an object or system transitions between different states in response to events. They show the lifecycle of an entity and the rules that govern its behavior.
 
 ---

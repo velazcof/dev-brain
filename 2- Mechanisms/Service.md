@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **service** provides a **discrete unit of functionality** that can be accessed through a well-defined interface, typically over a network. It represents a boundary around a specific capability that other components can invoke.
 
 ---

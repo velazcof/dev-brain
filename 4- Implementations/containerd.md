@@ -1,6 +1,4 @@
 
-### `Definition`
-
 containerd is a **container runtime** that manages the lifecycle of containers and container images on a host system. It provides the low-level functionality required to run containers, including image management, container execution, and resource isolation.
 
 Originally developed as part of Docker and later extracted as a standalone project, containerd is widely used as the **container runtime layer in modern container orchestration systems**.

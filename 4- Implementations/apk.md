@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **apk** is the **package management tool** used by Alpine Linux to install, update, remove, and manage software packages packaged in the `.apk` format. It is the concrete implementation of Alpine’s package management system.
 
 ---

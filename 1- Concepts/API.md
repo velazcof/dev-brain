@@ -1,6 +1,4 @@
 
-### `Definition`
-
 An API (Application Programming Interface) is a **defined contract that allows software systems or components to communicate and interact with each other**.
 
 It specifies how functionality or data can be requested, exchanged, and consumed without requiring direct knowledge of internal implementation details.

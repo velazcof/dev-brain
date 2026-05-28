@@ -1,4 +1,3 @@
-### `Definition`
 
 **Software as a Service (SaaS)** is a **cloud service model** where fully developed applications are hosted and maintained by a provider, and delivered to users over the internet.
 

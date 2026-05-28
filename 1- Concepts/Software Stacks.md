@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **software stack** is a **collection of technologies, tools, and frameworks** that work together to develop and run an application. It defines the **layers of an application’s ecosystem**, from the user interface to the backend services and underlying infrastructure.
 
 ---

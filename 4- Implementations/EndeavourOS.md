@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **EndeavourOS** is an **Arch-based Linux distribution** that aims to deliver a **near-vanilla Arch Linux experience** with a simpler installation process and minimal preconfiguration.
 
 It is often described as _“Arch, but easier”_, keeping users close to upstream Arch while removing the hardest entry barriers.

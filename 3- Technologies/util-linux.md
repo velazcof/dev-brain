@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **util-linux** is a **collection of essential low-level system utilities** that provide core functionality for managing disks, filesystems, users, sessions, and system state on Linux systems. It supplies tools that interact closely with the kernel and system hardware.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Linux Package Management** refers to the systems and tools responsible for **installing, updating, removing, and managing software** on Linux distributions. Each Linux family uses its own **package formats**, **repositories**, and **package managers**, which determine how software is distributed and maintained on that system.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Maps are **key–value data structures** that associate **unique keys** with corresponding values, enabling fast lookup, insertion, and deletion based on the key rather than position.
 
 They model direct access by identity instead of sequence.

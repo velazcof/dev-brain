@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Database Performance Tuning** is the practice of analyzing and adjusting database configurations, queries, and system resources to improve performance and efficiency. It exists to ensure that a database system can handle its workload reliably while minimizing latency and resource waste.
 
 ---

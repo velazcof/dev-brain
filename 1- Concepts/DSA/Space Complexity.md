@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Space complexity** describes how an algorithm’s **memory usage grows** as the size of its input increases. It accounts for all additional space required during execution, beyond the input itself.
 
 ---

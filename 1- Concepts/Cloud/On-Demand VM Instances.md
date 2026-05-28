@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Virtual machines that are **provisioned and billed per use**, with **no long-term commitment**.  
 You can start, stop, or terminate them anytime and pay only for the compute time consumed.
 

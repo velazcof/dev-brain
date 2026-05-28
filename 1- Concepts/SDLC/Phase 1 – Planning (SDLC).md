@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Planning Phase** is the **first stage of the Software Development Life Cycle (SDLC)**, focused on defining the **project’s objectives, scope, feasibility, and requirements**. 
 
 It transforms an abstract business problem into a **clear development plan** — outlining _what_ needs to be built, _why_, _for whom_, and _how_ success will be measured.

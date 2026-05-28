@@ -1,6 +1,4 @@
 
-### `Definition`
-
 An Entity Relationship Diagram (ERD) visually represents the structure of a database, showing entities, their attributes, and the relationships between them. It is used to design and communicate the logical data model.
 
 ---

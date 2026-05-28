@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Phases of the Software Development Life Cycle (SDLC)** represent the **sequential stages** a software project passes through — from gathering requirements to maintaining a deployed system. They ensure structure, accountability, and consistency throughout development.
 
 ---

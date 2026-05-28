@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Pointers** are values that **store the memory address of another value**, allowing indirect access to data stored elsewhere in memory.
 
 They enable programs to reference, share, and manipulate data without copying it.

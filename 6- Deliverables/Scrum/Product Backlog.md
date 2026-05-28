@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Product Backlog** is an **ordered, dynamic list of all desired work** on the product — a single source of truth for everything that might improve the product.  It evolves continuously as new ideas, needs, and feedback emerge.
 
 ---

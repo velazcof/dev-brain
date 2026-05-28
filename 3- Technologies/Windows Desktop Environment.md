@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Windows Application Services** are **background services installed by applications** to provide ongoing functionality such as backend processing, communication, scheduling, or system integration without direct user interaction.
 
 They represent the **application-owned service layer** within Windows user space.

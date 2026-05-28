@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **NServiceBus** is a commercial **.NET messaging framework** designed for building **reliable, message-driven and service-oriented systems**. It provides high-level abstractions for messaging, workflows, and reliability on top of message brokers.
 
 It strongly emphasizes **correctness, consistency, and enterprise-grade guarantees**.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Burndown Chart** is a **visual progress-tracking tool** used in Agile (especially Scrum) to show how much work remains versus time left in a sprint or project. It helps teams see whether they are on track to complete all committed user stories within the iteration.
 
 ---

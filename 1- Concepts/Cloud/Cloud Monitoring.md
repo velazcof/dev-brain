@@ -1,4 +1,3 @@
-### `Definition`
 
 **Cloud Monitoring** is the practice of **continuously observing and analyzing the performance, availability, usage, and security** of cloud resources and services.
 

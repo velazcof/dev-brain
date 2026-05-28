@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **heap** is a region of memory used for **dynamic allocation**, where data can be created, accessed, and released independently of function call order. It supports objects and values whose lifetimes are not tied to a single execution scope.
 
 ---

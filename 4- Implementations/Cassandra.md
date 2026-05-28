@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Apache Cassandra** is a distributed wide-column database management system designed for high availability and horizontal scalability. It is commonly used in systems that require high write throughput and fault tolerance across multiple nodes.
 
 ---

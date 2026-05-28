@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Direct-Attached Storage (DAS) refers to physical storage devices that are directly connected to a single computer or server — without going through a network.
 
 It’s the simplest and fastest way to access data locally, as the compute node communicates directly with the storage hardware.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Principle of Least Privilege (PoLP)** is a **core access-control principle** that limits users, applications, and systems to the **minimum permissions** required to perform their tasks.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **IAM Policies** are the **rules and configurations** that define how identities can interact with systems and resources.  
 They specify _who_ can perform _what actions_ on _which resources_ under _which conditions_.
 

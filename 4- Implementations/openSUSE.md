@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **openSUSE** is a **free, community-driven Linux distribution** sponsored by **SUSE**, offering **two complementary variants**: Leap, and Tumbleweed.
 
 openSUSE is designed for **developers, system administrators, and power users** who value **robust tooling, flexibility, and strong system management**.

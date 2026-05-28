@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **PKG package format** defines the **structure and layout of software packages** used by the pacman package manager in Arch-based Linux distributions. It specifies how software, metadata, and installation scripts are bundled for distribution and installation.
 
 ---

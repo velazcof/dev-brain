@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Message Delivery Semantics** describe the **behavioral guarantees and failure-handling rules** that govern how messages are delivered, retried, acknowledged, and handled when processing fails in a messaging system.
 
 They define **what happens under success, delay, duplication, or failure**—independent of the messaging pattern used.

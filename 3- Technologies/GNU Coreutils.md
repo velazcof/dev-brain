@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **GNU Coreutils** is a **collection of fundamental user-space utilities** that provide essential file, text, and process manipulation capabilities on Unix-like operating systems. It supplies the standard command-line tools users and scripts rely on for everyday system interaction.
 
 ---

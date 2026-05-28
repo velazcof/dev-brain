@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Conditionals** are the mechanism that allows a program to **evaluate a condition and decide whether a block of code should execute** based on the result.
 
 ---

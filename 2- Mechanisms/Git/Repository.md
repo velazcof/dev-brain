@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **repository** provides a **structured place to store files along with their change history and metadata** as a single unit. It serves as the organizational boundary within which versioned work is tracked and managed.
 
 ---

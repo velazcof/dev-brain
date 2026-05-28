@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Cloud Network Security** refers to the set of **principles and controls** used to protect **network traffic, connectivity, and boundaries** within and between cloud environments. It focuses on **how data moves** in the cloud and how that movement is restricted, monitored, and secured.
 
 ---

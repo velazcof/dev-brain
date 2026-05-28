@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **User Space** is the portion of an operating system where **applications and non-privileged processes run**, separated from the kernel for safety and stability. Programs in user space interact with hardware and kernel services **indirectly**, typically through system calls, libraries, and runtime environments.
 
 ---

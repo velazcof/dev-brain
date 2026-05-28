@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Single Sign-On (SSO)** is an **authentication technology** that allows users to access multiple systems or applications with **one set of login credentials**.  
 It simplifies user management and enhances security through centralized authentication.
 

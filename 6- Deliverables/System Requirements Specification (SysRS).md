@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **System Requirements Specification (SysRS)** defines the **complete set of requirements for an entire system**, including both **software and hardware components**. It provides a higher-level view than the SRS, ensuring that all interacting parts of the system — software, hardware, interfaces, and users — work together effectively.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **S3 API** is a **RESTful protocol standard** created by **Amazon Web Services** for interacting with **object storage systems**. It defines the operations, conventions, and request/response formats for managing **buckets** and **objects** over **HTTP/HTTPS**.
 
 Today, it serves as the **de facto industry standard** for object storage communication, implemented by many cloud and open-source providers for interoperability.

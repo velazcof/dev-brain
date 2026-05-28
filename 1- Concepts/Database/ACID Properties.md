@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **ACID Properties** are the four foundational guarantees that define reliable transaction behavior in a database system. They describe the conditions that must hold true for data operations to be considered correct and safe.
 
 ---

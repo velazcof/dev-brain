@@ -1,5 +1,4 @@
 []
-### `Definition`
 
 %% What it is in simple terms. %%
 

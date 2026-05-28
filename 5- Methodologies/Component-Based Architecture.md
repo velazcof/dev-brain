@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Component-Based Architecture** is a software design approach where an application is built from **independent, reusable, and encapsulated components**, each responsible for a specific piece of functionality.  
 
 Components combine to form larger systems while remaining replaceable and extensible.

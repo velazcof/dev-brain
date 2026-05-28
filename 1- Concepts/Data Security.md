@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Data Security** is the **practice of protecting digital information** from unauthorized access, corruption, or theft throughout its lifecycle — from creation and storage to transmission and deletion.
 
 It applies to all environments, including on-premises systems, hybrid infrastructure, and cloud services.

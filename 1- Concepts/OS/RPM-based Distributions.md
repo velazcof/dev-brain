@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **RPM-based distributions** are Linux operating systems that use the **RPM Package Manager** ecosystem for software installation, updates, and dependency management.  They rely on the `.rpm` package format along with tools like **DNF**, **YUM**, and GUI frontends such as **PackageKit** or **YaST**.
 
 These distros share a common technological foundation but differ widely in purpose, structure, and release cycles.

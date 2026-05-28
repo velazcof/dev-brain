@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Presentation Layer (Layer 6)** of the **OSI Model** defines how data is **translated, formatted, encrypted, and compressed** for application use. It acts as the **translator** between network data and application data, ensuring that information sent by one system can be understood by another.
 
 ---

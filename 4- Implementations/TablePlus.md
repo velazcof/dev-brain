@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **TablePlus** is a lightweight multi-database graphical client designed for managing and querying databases through a clean and minimal interface. It is commonly used by developers who want a fast, simple GUI tool for working with multiple database systems.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Pass by reference** is a parameter-passing behavior where a function receives **access to the original value**, rather than a copy, allowing the function to modify the caller’s data directly.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Variables** are named placeholders used to **store and reference values** in a program. They allow programs to retain data, manipulate it, and reuse it throughout execution.
 
 ---

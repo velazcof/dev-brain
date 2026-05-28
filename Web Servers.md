@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Web Servers are software technologies responsible for **handling HTTP requests and delivering web content or application responses to clients**.
 
 They act as the communication layer between users and web applications, serving static resources, forwarding requests, or interacting with backend systems.

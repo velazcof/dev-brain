@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **macOS Desktop Environment** is the **integrated graphical user interface** provided by Apple that defines how users interact with the system visually.  It includes the windowing system, file manager, application launcher, and core UI components, all designed as a single, cohesive environment.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **web server** handles **incoming client requests** and delivers content over web protocols, acting as the primary entry point for web-based interactions. It manages request reception and response delivery for web-facing systems.
 
 ---

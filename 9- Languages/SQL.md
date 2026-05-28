@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **SQL (Structured Query Language)** is a declarative language used to define, query, and manipulate data in relational database systems. It is primarily used to interact with data structured according to the relational model.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A cluster is a group of **multiple interconnected machines or nodes that work together as a unified system** to provide scalability, reliability, and distributed processing capabilities. Clusters allow workloads and resources to be distributed across multiple machines while appearing as a single logical environment.
 
 ---

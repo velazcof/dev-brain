@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Messaging Systems** are systems that enable **asynchronous communication** between independent components by exchanging **messages** instead of making direct calls. They decouple producers and consumers, allowing systems to communicate **reliably, flexibly, and at scale**.
 
 ---

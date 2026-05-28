@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Session Layer (Layer 5)** of the **OSI Model** defines how **communication sessions** are established, maintained, and terminated between applications.  
 It manages the **dialogue control** between systems — deciding who transmits, when, and for how long.
 

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Hybrid Cloud** is a computing environment that combines **public and private clouds** (and sometimes on-premises infrastructure) to share data and applications seamlessly between them.  
 It offers organizations the **flexibility** to run workloads where they make the most sense — balancing **control, scalability, and cost efficiency**.
 

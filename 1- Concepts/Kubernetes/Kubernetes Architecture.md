@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Kubernetes Architecture describes the **structural organization of a Kubernetes system**, including how its components interact to manage containerized applications across a cluster.
 
 It defines how Kubernetes coordinates nodes, schedules workloads, and maintains the desired state of applications in a distributed environment.

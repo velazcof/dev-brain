@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Cloud storage is a service model where data is stored, managed, and maintained on **remote servers** provided by a **cloud service provider** and accessed via the **internet**.  
 
 It abstracts away the physical hardware and exposes storage as a **scalable, on-demand resource**, billed by usage.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Deployment Diagram** is a visual representation of how an application’s software components are deployed across infrastructure resources such as servers, containers, networks, and cloud services. It shows **where** the system runs and **how** hardware, networking, and runtime environments are organized.
 
 ---

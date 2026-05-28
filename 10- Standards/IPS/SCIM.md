@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **SCIM** is an **open standard** that defines how to **automate user identity management** — provisioning, updating, and deprovisioning — across systems.
 
 ---

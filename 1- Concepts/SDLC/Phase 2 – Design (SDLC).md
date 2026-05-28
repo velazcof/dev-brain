@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Phase 2 – Design** is the stage of the **Software Development Life Cycle (SDLC)** where the **requirements** gathered during planning are **translated into a detailed system architecture and design blueprint**. This phase defines _how_ the software will be built to meet the functional and non-functional requirements outlined in the **SRS**.
 
 ---

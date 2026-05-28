@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Virtualization** enables **multiple isolated computing environments** to run on shared physical hardware by abstracting underlying resources such as CPU, memory, storage, and networking.
 
 It allows systems to operate independently while sharing the same physical host.

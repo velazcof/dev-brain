@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **firewall** is a security component that monitors and controls incoming and outgoing network traffic based on predefined security rules. It acts as a barrier between trusted internal networks and untrusted external networks.
 
 ---

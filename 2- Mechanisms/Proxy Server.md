@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **proxy server** sits **between clients and backend services**, forwarding requests and responses on their behalf. It allows control over how traffic enters, exits, or traverses a system.
 
 ---

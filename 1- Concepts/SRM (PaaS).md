@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Shared Responsibility Model (PaaS)** describes how **security and operational responsibilities are divided** between the **cloud provider** and the **customer** when using a **Platform-as-a-Service** offering.
 
 In PaaS, the provider manages the **infrastructure and runtime platform**, while the customer focuses on **application logic and data**.

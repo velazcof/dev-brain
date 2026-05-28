@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Function as a Service (FaaS)** is a **cloud service model** that allows developers to run **individual functions** in response to events, without managing servers, operating systems, or scaling infrastructure.
 
 It forms the **core compute layer of serverless architectures**, executing small, stateless functions on demand.

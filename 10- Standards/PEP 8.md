@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **PEP 8 (Python Enhancement Proposal 8)** is the **official style guide** for writing **idiomatic, readable Python code**. It defines conventions for **layout, naming, imports, whitespace, and formatting**, ensuring that Python code across projects maintains a consistent and predictable structure.
 
 ---

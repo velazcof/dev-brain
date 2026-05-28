@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Operations refers to the systems and mechanisms responsible for **maintaining, updating, scaling, and recovering workloads within a Kubernetes environment**. It encompasses the automated behaviors Kubernetes uses to ensure applications remain available, consistent, and aligned with their desired state over time.
 
 ---

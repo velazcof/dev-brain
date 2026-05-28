@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Database properties** are the fundamental guarantees and behavioral characteristics that define how a database maintains correctness, consistency, and reliability.
 
 They describe what assurances a database provides, independent of how those guarantees are implemented internally.

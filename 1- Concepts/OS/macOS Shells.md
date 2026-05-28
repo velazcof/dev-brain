@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **macOS shells** are **Unix-based command-line interpreters** used to interact with the macOS operating system, built on a BSD-derived Unix foundation.
 
 ---

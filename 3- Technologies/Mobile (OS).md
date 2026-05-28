@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Mobile Operating System (Mobile OS)** is an operating system designed specifically for **mobile devices** such as smartphones and tablets, optimized for **touch interaction**, **power efficiency**, **wireless connectivity**, and **app-centric usage**.
 
 Mobile OSes balance general-purpose computing with strong **platform control**, **security sandboxes**, and **battery-aware system management**.

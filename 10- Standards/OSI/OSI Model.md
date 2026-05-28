@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Open Systems Interconnection (OSI) Model** is a **networking standard** defined by the **International Organization for Standardization (ISO)**.
 
 It establishes a **seven-layer framework** that standardizes how different systems communicate over a network, ensuring interoperability between hardware and software from different vendors.

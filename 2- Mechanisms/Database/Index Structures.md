@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Index Structures** are data structures used by a database system to improve the efficiency of data retrieval operations. They provide alternative access paths to records without requiring full scans of data files.
 
 ---

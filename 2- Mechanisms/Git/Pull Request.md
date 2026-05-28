@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **pull request (PR)** provides a structured way to **propose integrating changes** from one line of development into another while enabling review and discussion before integration. It introduces a controlled checkpoint between independent work and shared code.
 
 ---

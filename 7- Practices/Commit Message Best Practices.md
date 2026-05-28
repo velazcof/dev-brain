@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Commit message best practices exist to ensure that every code change is **clear, traceable, and meaningful**, making collaboration and version history easier to understand for both humans and automated tools.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Manjaro** is an **Arch-based Linux distribution** designed to provide **ease of use, stability, and accessibility** while retaining access to the **Arch ecosystem**. It aims to make Arch Linux approachable through graphical installers, preconfigured desktops, and curated repositories.
 
 ---

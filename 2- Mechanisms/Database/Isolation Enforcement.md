@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Isolation Enforcement** is the mechanism that ensures transactions interact according to the configured isolation level. It controls what data changes are visible between concurrent transactions during execution.
 
 ---

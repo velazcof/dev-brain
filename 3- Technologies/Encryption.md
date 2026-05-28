@@ -1,4 +1,3 @@
-### `Definition`
 
 **Encryption** is a **data protection technology** that converts readable information (_plaintext_) into an unreadable format (_ciphertext_) using mathematical algorithms and secret keys.
 

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A Rolling Deployment is a deployment strategy where the **new application version is gradually introduced by incrementally replacing instances of the old version over time**. 
 
 Both versions temporarily coexist during the deployment process until the rollout completes.

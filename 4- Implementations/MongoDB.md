@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **MongoDB** is a document-oriented database management system that stores data in flexible, JSON-like documents. It is commonly used for applications requiring dynamic schemas and scalable distributed storage.
 
 ---

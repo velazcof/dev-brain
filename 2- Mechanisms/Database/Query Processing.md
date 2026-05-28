@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Database Query Processing** is the mechanism by which a database system interprets, plans, and executes queries against stored data. It transforms high-level query statements into coordinated operations on memory and storage structures.
 
 ---

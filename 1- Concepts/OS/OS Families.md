@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Operating Systems Families** categorize OS implementations into design models based on their architecture, purpose, and underlying kernel or runtime environment. This classification helps distinguish how different OSes function, what constraints they operate under, and how they evolved historically.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Methods** are named units of behavior associated with a **class or object**. They define the actions that can be performed using an object’s state and represent how objects expose and operate on their data.
 
 ---

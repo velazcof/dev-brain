@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Python** is a **high-level, general-purpose programming language** designed for **readability, simplicity, and productivity**. 
 
 It emphasizes a clear, expressive syntax and a “**batteries included**” standard library, making it well-suited for **automation**, **web backends**, **data science/ML**, **scripting**, **DevOps**, and **education**.

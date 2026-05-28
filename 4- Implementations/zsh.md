@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Zsh (Z Shell)** is a **feature-rich Unix shell** designed for **interactive use**, extending the capabilities of traditional POSIX shells while remaining largely compatible with `sh`-style scripting.
 
 It is the **default shell on macOS** and a popular alternative to Bash on Linux systems.

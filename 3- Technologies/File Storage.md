@@ -1,6 +1,4 @@
 
-### `Definition`
-
 File storage organizes data in a hierarchical structure of files and folders, much like a local file system. In the cloud, it’s typically hosted on network-attached systems that multiple compute nodes can connect to over a shared network.
 
 ---

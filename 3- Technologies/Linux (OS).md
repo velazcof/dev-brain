@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Linux (OS)** refers to the family of operating systems built on the **Linux kernel**, combined with user-space tools, package managers, shells, libraries, and system utilities. These systems form complete Linux distributions used across servers, desktops, mobile devices, embedded systems, and cloud platforms.
 
 ---

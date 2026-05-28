@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Virtual machines that use **spare capacity** from the cloud provider at a **deeply discounted rate**, but can be **interrupted or reclaimed** at any time.
 
 ---

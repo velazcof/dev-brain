@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Trunk-Based Development (TBD)** is a branching strategy where developers work in **small, frequent changes directly on a single main branch** (often called `trunk`). Feature work happens in very short-lived branches or directly on trunk, enabling rapid integration and continuous delivery.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 CPython is the **reference implementation of the Python language**, written in C, and the most widely used Python runtime.
 
 It implements the Python Runtime by compiling Python source code into **bytecode** and executing it through a virtual machine, while managing memory, objects, and interaction with the underlying system.

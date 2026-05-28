@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **RPM Package Ecosystem** is the software packaging and distribution framework used by Red Hat–style Linux systems. It centers around the **`.rpm` package format**, the **RPM Package Manager**, and higher-level tools like **DNF**, **YUM**, and various GUI package managers.
 
 ---

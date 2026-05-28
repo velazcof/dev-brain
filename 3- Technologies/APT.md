@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **APT (Advanced Package Tool)** is a **high-level package management system** used by Debian-based Linux distributions to **retrieve, install, upgrade, and manage software packages** from repositories while automatically handling dependencies.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 %% What this mechanism does and how it enables system behavior (not what tool implements it). %%
 
 ---

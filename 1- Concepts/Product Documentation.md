@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Product Documentation** describes the **functionality, design, and usage** of a software product.  
 It serves as the **primary reference** for developers, testers, and users to understand how the system works, how it should be built, and how it should be used.
 

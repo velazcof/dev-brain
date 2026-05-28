@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Storage Subsystem** is the mechanism responsible for organizing, persisting, and retrieving the physical representation of database data. It manages how logical data structures are mapped to files, pages, and durable storage media.
 
 ---

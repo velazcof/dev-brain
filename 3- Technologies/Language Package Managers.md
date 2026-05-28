@@ -1,4 +1,3 @@
-### `Definition`
 
 **Language Package Managers** are tools that manage **project-level code dependencies** for programming languages. They install libraries, handle versioning, manage lock files, and ensure reproducible builds.
 

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A Blue/Green Deployment is a deployment strategy where **two separate production environments exist simultaneously**, with traffic switching from the current version to the new version once the new environment is validated.
 
 One environment serves live traffic while the other hosts the new release candidate.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Linux Mint** is a desktop-focused Linux distribution based on **Ubuntu (and sometimes Debian)**, designed to provide a **stable, beginner-friendly, and Windows-like experience**.  
 It emphasizes usability, simplicity, and out-of-the-box functionality with minimal configuration required.
 

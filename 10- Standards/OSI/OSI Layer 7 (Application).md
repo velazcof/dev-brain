@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Application Layer (Layer 7)** of the **OSI Model** defines the **interface between the network and end-user applications**. It provides protocols and services that enable software applications to **communicate over a network**, handling user-level data exchange and resource access.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Application environments** are the distinct setups in which a software application runs during its lifecycle, each designed for a specific purpose such as development, testing, or production. They help isolate work, reduce risk, and ensure consistent behavior across stages.
 
 ---

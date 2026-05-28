@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **compiled language** follows an execution mechanism in which source code is **translated into machine code before execution**, producing a standalone binary that can run directly on the target system.
 
 This mechanism separates translation from runtime execution.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Looping** enables a program to **repeat execution of a set of instructions** while a specified condition holds. It allows repeated behavior without duplicating code.
 
 ---

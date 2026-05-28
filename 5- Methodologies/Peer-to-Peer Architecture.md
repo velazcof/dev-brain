@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Peer-to-Peer (P2P) Architecture** is a decentralized architectural pattern where each node in the system acts as both a **client and a server**, enabling direct communication without a central coordinator.
 
 ---

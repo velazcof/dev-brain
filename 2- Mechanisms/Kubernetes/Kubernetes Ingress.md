@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A Kubernetes Ingress is a mechanism responsible for **managing external access to services running inside a Kubernetes cluster**, typically for HTTP and HTTPS traffic. It provides centralized traffic routing rules that determine how incoming requests should reach internal services.
 
 ---

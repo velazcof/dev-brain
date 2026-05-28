@@ -1,6 +1,4 @@
 
-### `Definition`
-
 An **interpreted language** follows an execution approach where source code is **processed and executed at runtime**, rather than being fully translated into machine code beforehand. Program behavior is determined dynamically as instructions are evaluated during execution.
 
 ---

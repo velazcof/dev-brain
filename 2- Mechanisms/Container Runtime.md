@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A container runtime is a **software mechanism responsible for creating, running, and managing containers on a host system**. It executes containers by using container images and applying isolation and resource control mechanisms provided by the operating system.
 
 The runtime acts as the **execution layer of containerization**, translating container definitions into running processes within isolated environments.

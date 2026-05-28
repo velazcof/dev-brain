@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Velocity** measures the **average amount of work a Scrum team completes per sprint**, typically expressed in **story points**. It reflects the team’s delivery capacity and helps forecast future work.
 
 ---

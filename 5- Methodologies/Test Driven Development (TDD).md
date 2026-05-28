@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Test-Driven Development (TDD)** is a **software development methodology** where tests are written **before** the actual code. The goal is to ensure the software is **built right** — meaning it fulfills its intended behavior with clean, reliable, and maintainable code. 
 
 TDD emphasizes designing code through the lens of tests, shaping both functionality and architecture iteratively.

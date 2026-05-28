@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Relational DBMS** is a database management system that implements the relational model for structuring and managing data. It organizes data into tables composed of rows and columns and supports structured querying through relational operations.
 
 ---

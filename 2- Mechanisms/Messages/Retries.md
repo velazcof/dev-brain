@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Retries** describe the behavior where a message that fails processing is **delivered again for reprocessing** instead of being immediately discarded or marked as failed. They allow transient errors to be resolved without manual intervention.
 
 ---

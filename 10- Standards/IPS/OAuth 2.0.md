@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **OAuth 2.0** is an **authorization framework** that enables secure, delegated access to resources without sharing user credentials.
 
 ---

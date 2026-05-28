@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Oracle Database** is an enterprise-grade relational database management system developed by Oracle Corporation for large-scale, mission-critical systems. It is typically used in environments requiring high reliability, advanced performance optimization, and extensive enterprise features.
 
 ---

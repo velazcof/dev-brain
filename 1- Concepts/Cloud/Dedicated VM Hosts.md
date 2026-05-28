@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Physical servers in the cloud that are **fully dedicated to a single customer**, ensuring **hardware-level isolation**.
 
 ---

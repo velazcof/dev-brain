@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Container platforms are **software systems that provide tools and runtimes for building, running, and managing containers on a host machine**.
 
 They enable developers to package applications into containers, manage container images, and control the lifecycle of container instances.

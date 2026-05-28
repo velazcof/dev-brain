@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Product Owner** is responsible for **defining the product vision**, **managing the product backlog**, and **maximizing value delivery**. They serve as the **bridge between stakeholders and the Scrum Team**, ensuring the team builds the right product.
 
 ---

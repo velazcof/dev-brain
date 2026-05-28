@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Traceability Matrix** is a structured document or table that maps **relationships between related artifacts** (such as requirements, design elements, test cases, and implementations) to ensure coverage, consistency, and accountability.
 
 It answers the question:

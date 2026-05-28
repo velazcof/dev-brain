@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **MySQL Workbench** is a graphical client designed for managing and developing MySQL databases. It provides tools for database modeling, querying, and administration within the MySQL ecosystem.
 
 ---

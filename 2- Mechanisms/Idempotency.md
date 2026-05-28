@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Idempotency** is the property where **performing the same operation multiple times produces the same result as performing it once**.
 
 It allows systems to safely handle **duplicate messages or repeated requests** without causing unintended side effects.

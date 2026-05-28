@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Zero Trust** is a **security model** that assumes no implicit trust — every access request must be **continuously verified**, regardless of user, device, or network location.
 
 ---

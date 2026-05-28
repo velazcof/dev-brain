@@ -1,6 +1,4 @@
 
-### `Definition`
-
 An **Embedded Operating System (Embedded OS)** is an operating system designed to run on **dedicated hardware** with a **specific, limited purpose**, often under strict constraints on **resources, timing, reliability, and power consumption**.
 
 Unlike general-purpose operating systems, an Embedded OS is typically **tightly coupled to the hardware and application it serves**.

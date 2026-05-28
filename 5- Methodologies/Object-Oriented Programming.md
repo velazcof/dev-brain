@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Object-oriented programming is a paradigm that organizes software around objects—bundles of data and the methods that operate on that data. It models programs using real-world entities and their interactions.
 
 ---

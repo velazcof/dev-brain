@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Pair programming** is a collaborative development practice where **two programmers work together at one workstation**, sharing a single codebase in real time. 
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Data Link Layer (Layer 2)** of the **OSI Model** defines how data is **packaged into frames** and transmitted across a **local network segment**.  It establishes standards for **MAC addressing, error detection, and reliable frame delivery** between directly connected devices.
 
 ---

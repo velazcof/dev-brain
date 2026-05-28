@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **database** is an organized system for storing and managing data so it can be reliably retrieved and updated over time. It provides structured persistence and defined guarantees around correctness, consistency, and accessibility, independent of any specific software implementation.
 
 ---

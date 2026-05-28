@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Runtime Diagram** is a **visual representation of how a system behaves while it is running**, showing **components, processes, threads, and their interactions over time**.
 
 It focuses on **execution flow**, not static structure.

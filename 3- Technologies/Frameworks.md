@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **framework** is a **structured software platform or scaffold** that defines the overall architecture of an application. It provides pre-defined conventions, workflows, and components that guide development.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Architectural styles describe the fundamental ways software systems can be structured. They represent common design patterns—such as monolithic, layered, component-based, or service-oriented approaches—that shape how components interact, scale, and evolve.
 
 ---

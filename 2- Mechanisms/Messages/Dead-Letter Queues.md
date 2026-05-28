@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Dead-Letter Queue (DLQ)** is a holding queue where **messages that cannot be successfully processed** are sent after repeated failures, instead of being retried indefinitely or blocking normal message flow.
 
 It isolates problematic messages so systems can continue operating reliably.

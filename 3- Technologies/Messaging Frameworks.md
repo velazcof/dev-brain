@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Messaging Frameworks** are **software frameworks** that sit on top of message brokers to **simplify building message-based applications**. They abstract low-level messaging concerns and provide higher-level constructs for **reliability, workflows, and developer productivity**.
 
 Messaging frameworks **do not replace message brokers** — they **use them**.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Standard Operating Procedure (SOP)** is a **documented, step-by-step set of instructions** that describes **how to perform a specific task or process consistently and correctly**.
 
 It serves as an authoritative reference for **repeatable operational work**.

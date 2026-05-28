@@ -1,4 +1,3 @@
-### `Definition`
 
 **Physical servers** are **tangible computing machines** that provide processing power, memory, storage, and networking directly through hardware. They represent the **foundation of all computing infrastructure**, serving as the base layer upon which virtual machines, containers, and cloud environments are built.
 

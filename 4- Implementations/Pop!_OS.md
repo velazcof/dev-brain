@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Pop!_OS** is a Linux distribution developed by **System76**, based on Ubuntu, and designed for **developers, creators, and power users**, with a strong focus on **productivity, performance, and a polished desktop experience**.
 
 It features a custom desktop environment (**COSMIC**) optimized for workflow efficiency and tiling window management.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Graphs are **non-linear data structures** composed of **nodes (vertices)** connected by **edges**, used to represent relationships between entities. They can model complex networks where elements are interconnected in arbitrary ways.
 
 ---

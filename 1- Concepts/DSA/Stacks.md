@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Stacks are **linear data structures** that follow the **Last-In, First-Out (LIFO)** principle, where elements are added and removed only from one end, called the **top**. They model scenarios where the most recent item must be processed first.
 
 ---

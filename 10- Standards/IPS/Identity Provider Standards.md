@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Identity provider standards** are **protocols and frameworks** that define how identity providers (IdPs) and service providers (SPs) securely exchange authentication and identity information. 
 
 These standards ensure consistent and standardized approaches to authentication and access management.

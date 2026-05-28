@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **RabbitMQ** is an open-source **message broker** that implements **message queuing and publish–subscribe messaging** using the AMQP protocol. It is used to enable **asynchronous, reliable communication** between distributed applications.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Feature Branch Workflow** is a Git branching strategy where **each new feature or change is developed in its own dedicated branch**, separate from the main branch.  
 Work is done, tested, and reviewed in isolation, then merged back once it’s ready.
 

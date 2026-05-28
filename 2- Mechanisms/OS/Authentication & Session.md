@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Authentication & session management** is a mechanism for verifying identity and maintaining continuity of access across system or application interactions. It enables systems to recognize _who_ is interacting and to preserve that identity across multiple operations over time.
 
 ---

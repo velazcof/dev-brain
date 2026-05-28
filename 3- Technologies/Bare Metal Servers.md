@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Bare Metal Servers** are **dedicated physical machines** provided by cloud vendors that allow customers to run workloads **directly on hardware**, without a virtualization layer.  
 
 They offer the **performance, control, and security of physical servers** while maintaining the **scalability and on-demand provisioning** benefits of the cloud.

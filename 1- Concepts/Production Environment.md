@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **production environment** is the live system used by real users. It prioritizes stability, security, performance, and availability above all else.
 
 ---

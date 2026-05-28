@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **User Space Components** are the collection of **non-kernel software and interfaces** that allow users and applications to interact with the operating system. They run outside kernel space, operate without privileged access, and form the **environment in which all user-level programs execute**.
 
 These components are _general to all operating systems_ (Linux, Windows, macOS), though each OS provides its own implementations.

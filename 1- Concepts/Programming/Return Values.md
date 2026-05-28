@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Return values** are the outputs produced by a function after it completes execution. They allow a function to **communicate results back to its caller**, enabling composition and reuse of behavior.
 
 ---

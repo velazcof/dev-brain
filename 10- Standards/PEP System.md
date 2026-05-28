@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The PEP System (Python Enhancement Proposal system) defines the **formal process for proposing, documenting, and standardizing changes to the Python language and ecosystem**. It establishes how new features, design decisions, and conventions are introduced, evaluated, and adopted within Python.
 
 ---

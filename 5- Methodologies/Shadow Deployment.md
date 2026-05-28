@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A Shadow Deployment is a deployment strategy where **production traffic is mirrored to a new application version without exposing its responses to end users**.
 
 The new version processes real traffic in parallel with the live system, allowing behavior and performance to be evaluated safely.

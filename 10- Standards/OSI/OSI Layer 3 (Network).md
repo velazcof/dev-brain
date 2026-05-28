@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Network Layer (Layer 3)** of the **OSI Model** defines how data is **routed between different networks** using **logical addressing**.  
 It establishes standards for **packet forwarding, routing, and path determination**, enabling communication beyond a single local network.
 

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Kernel implementations are **real-world operating system kernels** that apply specific architectural designs (monolithic, hybrid, microkernel, etc.) to manage hardware, processes, memory, and system calls. These implementations turn kernel theory into practical systems used in servers, desktops, mobile OSes, and embedded environments.
 
 ---

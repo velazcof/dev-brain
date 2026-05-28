@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A Software Design Document (SDD) is a detailed blueprint describing a system’s architecture, components, data models, interfaces, and design decisions. It captures _how_ the software will be built before implementation begins.
 
 ---

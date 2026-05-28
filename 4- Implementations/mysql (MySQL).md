@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **mysql (MySQL CLI client)** is the command-line tool used to interact with MySQL databases. It allows users to execute SQL queries, manage database objects, and run administrative operations from a terminal environment.
 
 ---

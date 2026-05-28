@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **BSD Kernel** refers to the **kernel component used by BSD-derived operating systems**, responsible for **process scheduling, memory management, filesystems, networking, and hardware interaction** within the BSD OS family.
 
 It forms the low-level core of systems such as **FreeBSD, OpenBSD, and NetBSD**.

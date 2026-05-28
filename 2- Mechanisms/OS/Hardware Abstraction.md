@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Hardware abstraction** is the mechanism through which the operating system **hides hardware-specific details** and exposes uniform interfaces to higher system layers. It allows software to operate independently of the underlying physical hardware.
 
 ---

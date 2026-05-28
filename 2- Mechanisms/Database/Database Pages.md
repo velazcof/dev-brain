@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Database Pages** are fixed-size units of storage used by a database system to read and write data between memory and disk. They serve as the fundamental I/O unit within the storage subsystem.
 
 ---

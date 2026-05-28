@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Backend as a Service (BaaS) is a **cloud platform model that provides pre-built backend infrastructure and services** for application development. It allows developers to rely on managed services such as databases, authentication, and storage instead of building and maintaining a custom backend.
 
 These platforms expose backend functionality through **SDKs and APIs**, enabling applications—especially web and mobile apps—to interact with backend services without managing servers or infrastructure.

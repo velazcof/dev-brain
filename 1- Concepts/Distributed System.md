@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **distributed system** is a software system composed of multiple independent nodes that work together to appear as a single coherent system to the user. These nodes communicate by exchanging messages over a network.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **DataGrip** is a multi-database graphical client developed by JetBrains for querying and managing databases through a unified interface. It is commonly used in development environments that require advanced SQL tooling and integration with IDE workflows.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Cloudflare Workers is a **serverless compute platform** that allows developers to run **JavaScript, TypeScript, and WebAssembly code at Cloudflare’s global edge network**.
 
 It follows the **Function as a Service (FaaS)** model but executes functions **at edge locations close to users**, enabling low-latency APIs, request processing, and distributed application logic.

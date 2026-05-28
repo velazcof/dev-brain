@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Database Backup & Recovery** refers to the strategies and processes used to protect database data from loss and restore it after failures. It ensures that a database system can be returned to a consistent state following corruption, crashes, or accidental data deletion.
 
 ---

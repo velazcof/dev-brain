@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **library** is a **collection of pre-written code** that provides reusable functions, classes, or utilities developers can call to perform common tasks without reinventing them.
 
 ---

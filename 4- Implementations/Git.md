@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Git** is a **distributed version control system** used to track changes in code, collaborate with others, and manage multiple versions of a project. It’s the industry standard for source control, from solo projects to large teams.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Version Control System (VCS)** is a system that tracks and manages changes to files—most commonly source code—over time. It allows multiple people to collaborate, keep a history of changes, and safely revert to previous versions when necessary.
 
 ---

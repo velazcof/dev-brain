@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Message Broker** is a **software system** that receives, stores, routes, and delivers messages between producers and consumers according to defined messaging patterns. It acts as the **central intermediary** that enables asynchronous, decoupled communication in messaging systems.
 
 ---

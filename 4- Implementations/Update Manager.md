@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Update Manager** is a **graphical package management frontend** that allows users to **check for, review, and install system updates** on Debian-based Linux distributions. It provides a user-friendly interface on top of underlying package management tools like APT.
 
 ---

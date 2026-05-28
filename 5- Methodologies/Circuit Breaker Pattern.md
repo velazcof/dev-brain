@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Circuit Breaker Pattern** is a **resilience design pattern** that **prevents repeated attempts to execute an operation that is likely to fail**, by temporarily blocking requests to a failing component.
 
 It protects systems from **cascading failures** and allows time for recovery.

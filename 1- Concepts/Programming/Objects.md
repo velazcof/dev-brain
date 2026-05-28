@@ -1,6 +1,4 @@
 
-### `Definition`
-
 An **object** is a conceptual unit that **combines state and behavior** into a single entity. It represents an instance of a class (or prototype) and models a real-world or logical concept within a program.
 
 ---

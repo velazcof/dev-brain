@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Backend Development** is the **domain focused on the server-side logic** of web applications — handling data processing, security, and communication between clients and databases. It ensures that frontend interfaces have reliable, secure, and performant access to application functionality and data.
 
 ---

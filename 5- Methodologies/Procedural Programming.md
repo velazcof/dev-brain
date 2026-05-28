@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Procedural programming is a programming paradigm that organizes code into procedures or functions that operate on data. Programs are written as a sequence of steps executed in order.
 
 ---

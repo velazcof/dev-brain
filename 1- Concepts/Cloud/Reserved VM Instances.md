@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Virtual machines that are **reserved for a fixed period** (typically 1–3 years) in exchange for **lower hourly rates**.
 
 ---

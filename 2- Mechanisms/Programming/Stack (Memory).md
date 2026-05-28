@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **stack** is a memory mechanism that manages **temporary execution data** in a **last-in, first-out (LIFO)** order. It is used to store function call information such as local variables, parameters, and return addresses during program execution.
 
 ---

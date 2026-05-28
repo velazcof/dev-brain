@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **PackageKit** is a **distribution-agnostic package management abstraction** that provides a **uniform interface** for installing, updating, and removing software across different Linux package ecosystems.
 
 It sits **above native package managers** and enables tools to manage software without caring about the underlying package system.

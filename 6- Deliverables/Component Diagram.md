@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A Component Diagram breaks down a single container into its internal building blocks—components such as services, controllers, adapters, repositories, or modules. It shows how these components collaborate to fulfill the container’s responsibilities.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Windows User Space** refers to all software, services, frameworks, and tools that run **outside the Windows kernel** and form the **execution environment for applications**. It includes system APIs, runtimes, command-line tools, graphical interfaces, background services, and user applications.
 
 It sits above the **Windows NT kernel**, interacting with it through well-defined system interfaces rather than direct hardware access.

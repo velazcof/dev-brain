@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Requirements Documentation** defines **what the software must do** — outlining the functional and non-functional needs that the final system must meet.  
 It serves as a **contract** between stakeholders and developers, ensuring everyone understands the intended scope, features, and constraints before design and development begin.
 

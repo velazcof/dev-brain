@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Spring Cloud Stream** is a **Spring-based messaging framework** that provides a **declarative programming model** for building event-driven and message-driven microservices.
 
 It abstracts message broker details behind a **binder-based model**, allowing applications to focus on business logic rather than transport mechanics.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Request–Reply** is a messaging pattern where one component **sends a request message** and later receives a corresponding response message, without requiring a direct, synchronous connection. 
 
 It enables **asynchronous interactions** that still preserve a question–answer flow.

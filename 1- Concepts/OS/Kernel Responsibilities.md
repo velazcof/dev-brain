@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Kernel responsibilities refer to the **core functions performed by an operating system kernel** to manage hardware, processes, memory, and communication between software and devices. These responsibilities form the foundation of all operating system behavior and enable applications to run safely and efficiently.
 
 ---

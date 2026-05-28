@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **branching workflow** is a structured process that defines how branches, commits, pull requests, and merges are used together to develop, review, and release code safely and collaboratively.
 
 ---

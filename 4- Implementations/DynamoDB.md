@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Amazon DynamoDB** is a fully managed key-value and document database service designed for scalable, low-latency applications. It is commonly used in cloud-native systems that require automatic scaling and high availability without managing infrastructure.
 
 ---

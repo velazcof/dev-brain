@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **DB-Specific GUI Clients** are graphical database tools designed to work primarily with a single database system. They provide tailored interfaces and features optimized for the capabilities and configuration of that specific DBMS.
 
 ---

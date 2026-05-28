@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Oracle SQL Developer** is a graphical client used to develop, query, and administer Oracle Database systems. It provides tools for SQL execution, schema management, and database administration within the Oracle ecosystem.
 
 ---

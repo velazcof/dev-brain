@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A Kubernetes DaemonSet is a mechanism responsible for **ensuring a pod runs on specific nodes or across every node within a cluster**.
 
 It is commonly used for workloads that provide cluster-wide functionality rather than application-specific services.

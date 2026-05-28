@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Database Engine** is the core software component within a Database Management System responsible for executing queries, managing transactions, and coordinating data storage operations.
 
 It acts as the runtime system that turns high-level data operations into controlled memory and disk interactions.

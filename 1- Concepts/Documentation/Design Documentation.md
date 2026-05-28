@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Design Documentation** describes **how the software will be built** to meet the approved requirements. It translates the _what_ from the requirements phase into the _how_ — defining the system’s architecture, components, interactions, and design decisions that guide development.
 
 ---

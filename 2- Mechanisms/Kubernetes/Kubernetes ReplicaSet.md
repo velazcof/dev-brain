@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A Kubernetes ReplicaSet is a mechanism responsible for **maintaining a specified number of identical pod replicas running within a cluster**.
 
 It continuously monitors pod state and ensures the desired number of instances remains available, replacing failed or missing pods automatically.

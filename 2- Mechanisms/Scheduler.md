@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **scheduler** determines **which execution unit runs on the CPU and when**, coordinating how processing time is shared among concurrent workloads. It governs how work progresses across processes or threads over time.
 
 ---

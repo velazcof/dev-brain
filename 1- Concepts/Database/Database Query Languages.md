@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Database Query Languages** are formal languages used to define, retrieve, and manipulate data within a database. They provide a structured way to express operations on data according to a specific database model.
 
 ---

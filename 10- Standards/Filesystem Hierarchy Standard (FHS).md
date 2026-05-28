@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Filesystem Hierarchy Standard (FHS)** defines a **standard directory structure and naming conventions** for Unix-like operating systems, specifying where files and directories should be located in the filesystem.
 
 It establishes a common layout for system files, user data, and application resources.

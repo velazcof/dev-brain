@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Identifier naming conventions** are the practice of using **consistent, meaningful naming patterns** for variables, functions, classes, and other identifiers to improve code readability, clarity, and maintainability.
 
 ---

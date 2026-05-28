@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Service-Oriented Architecture (SOA)** is an architectural pattern where applications are built from **independently deployed, network-accessible services**, each responsible for a specific business capability. 
 
 Services communicate through standardized protocols (often HTTP or messaging).

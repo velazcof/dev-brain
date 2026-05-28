@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **file system** is the mechanism that defines how data is **organized, stored, named, and accessed** on persistent storage devices. It provides a structured way for the operating system to manage files and directories independently of the underlying hardware.
 
 ---

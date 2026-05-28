@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Deployment Strategies are approaches used to **release new application versions while managing availability, risk, traffic distribution, and rollback behavior** during software deployment.
 
 Different strategies balance trade-offs between reliability, deployment speed, infrastructure cost, and user impact.

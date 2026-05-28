@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **QNX Kernel** is a **real-time microkernel** used by the **QNX operating system**, designed for **deterministic, high-reliability systems** where timing guarantees and fault isolation are critical.
 
 It is widely used in **embedded and safety-critical environments**.

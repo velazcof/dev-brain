@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **musl libc** is a **lightweight implementation of the C standard library** designed for simplicity, correctness, and efficiency. It provides the core system interfaces that C programs rely on to interact with the operating system.
 
 ---

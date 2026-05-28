@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Database Access Control** is the mechanism by which a database system restricts and manages who can access data and what operations they are allowed to perform. It enforces permissions at the database level to protect data integrity and security.
 
 ---

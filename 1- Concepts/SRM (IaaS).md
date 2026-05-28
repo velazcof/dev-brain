@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Shared Responsibility Model (IaaS)** defines how **security and operational responsibilities are split** between the **cloud provider** and the **customer** when using **Infrastructure-as-a-Service**.
 
 In IaaS, the provider supplies the **infrastructure**, while the customer retains significant control—and responsibility—over the **operating system and everything above it**.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Scrum** is an **Agile framework for managing and delivering complex projects** through short, iterative cycles called **sprints**.  It emphasizes teamwork, transparency, and continuous feedback to produce working software incrementally.
 
 ---

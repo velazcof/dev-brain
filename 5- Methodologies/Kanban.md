@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Kanban** is a **visual workflow management methodology** focused on improving efficiency, limiting bottlenecks, and achieving continuous delivery.
 
 It originated from **Toyota’s manufacturing system**, where visual “signboards” (kanban) were used to signal work stages and control production flow.

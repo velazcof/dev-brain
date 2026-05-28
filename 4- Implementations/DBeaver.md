@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **DBeaver** is a multi-database graphical client used to connect to, query, and manage various database systems from a single interface. It is commonly used when working with multiple relational or non-relational databases in development or administrative environments.
 
 ---

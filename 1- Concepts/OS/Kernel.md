@@ -1,4 +1,3 @@
-### `Definition`
 
 A **kernel** is the **core component of an operating system** responsible for managing hardware resources and enabling communication between software applications and the underlying hardware. It acts as the bridge between user programs and the system’s physical components (CPU, memory, storage, devices).
 

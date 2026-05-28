@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Windows System Services** are **core background services provided by the Windows operating system** that support essential system functionality such as networking, security, updates, hardware interaction, and system stability.
 
 They represent the **OS-owned service layer** of Windows user space.

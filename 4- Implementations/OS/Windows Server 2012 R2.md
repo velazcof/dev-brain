@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Windows Server 2012 R2**, released in 2013, is built on the **Windows NT 6.3 kernel** and represents a major modernization of Microsoft’s server platform. It introduced significant improvements in virtualization, storage, networking, and cloud integration, becoming a long-lasting enterprise favorite.
 
 ---

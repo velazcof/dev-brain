@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Use Case Diagram** is a **visual representation of system functionality from the user’s perspective**, showing **actors** and the **use cases (actions)** they can perform within a system. It focuses on **what the system does**, not how it is implemented.
 
 ---

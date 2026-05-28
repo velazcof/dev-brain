@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Container orchestrators are **software systems used to automate the deployment, scheduling, scaling, networking, and lifecycle management of containers across multiple machines**.
 
 They coordinate containerized workloads in distributed environments, making it possible to run applications reliably across clusters rather than managing individual containers manually.

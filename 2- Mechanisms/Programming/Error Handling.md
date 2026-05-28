@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Error handling** is the mechanism by which a system detects, represents, propagates, and responds to abnormal or failure conditions during execution, allowing programs to recover gracefully or fail safely.
 
 ---

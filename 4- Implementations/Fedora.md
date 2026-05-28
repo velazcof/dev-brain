@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Fedora** is a **modern, cutting-edge Linux operating system** sponsored by Red Hat.  
 It focuses on **innovation, up-to-date software, strong security practices, and open-source technologies**.
 

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Workload Management refers to the processes and mechanisms responsible for **deploying, running, scaling, and maintaining application workloads within a system**. In Kubernetes, it encompasses the components that control how containers and pods are created, replicated, updated, and executed across a cluster.
 
 ---

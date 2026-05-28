@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **MySQL** is an open-source relational database management system widely used for web applications and general-purpose structured data storage. It is commonly chosen for lightweight to medium-scale systems and is a core component of many traditional web stacks.
 
 ---

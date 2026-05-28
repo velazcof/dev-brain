@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Data structures are formal ways of organizing, storing, and managing data in a program. They define how data is arranged in memory and how efficiently it can be accessed, modified, or traversed.
 
 ---

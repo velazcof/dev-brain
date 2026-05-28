@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Windows XP** is a desktop operating system released by Microsoft in 2001, built on the **Windows NT kernel**. It became one of the most widely adopted OS versions due to its stability, usability, and longevity.
 
 ---

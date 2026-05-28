@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Isolation Levels** define how concurrent transactions interact and what kinds of side effects they are allowed to observe. They specify the degree to which one transaction is isolated from the intermediate states of others.
 
 ---

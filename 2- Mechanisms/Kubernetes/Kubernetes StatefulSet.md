@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A Kubernetes StatefulSet is a mechanism responsible for **managing stateful application workloads that require stable identity, persistent storage, or ordered deployment behavior**.
 
 Unlike Deployments, StatefulSets maintain consistent pod identities and storage across pod restarts or rescheduling.

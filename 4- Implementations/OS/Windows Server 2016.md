@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Windows Server 2016**, released in 2016, is a major enterprise operating system built on the **Windows NT 10.x kernel**. It introduced deep cloud integration, native container support, significant security innovations, and major improvements to Hyper-V and software-defined infrastructure.
 
 ---

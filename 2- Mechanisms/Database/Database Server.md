@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **database server** is a **mechanism for managing persistent data storage and access** within a system, enabling applications to store, retrieve, and modify data reliably over time. It provides a centralized point for durable data handling.
 
 ---

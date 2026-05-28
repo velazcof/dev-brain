@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Kubernetes DNS is a mechanism responsible for **providing service discovery and name resolution within a Kubernetes cluster**.
 
 It allows workloads to communicate using stable service names rather than requiring direct knowledge of pod IP addresses or infrastructure details.

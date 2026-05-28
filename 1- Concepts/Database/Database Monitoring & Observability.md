@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Database Monitoring & Observability** refers to the processes and tools used to track the health, performance, and behavior of a database system in real time. It enables operators to detect issues, analyze performance bottlenecks, and maintain system stability.
 
 ---

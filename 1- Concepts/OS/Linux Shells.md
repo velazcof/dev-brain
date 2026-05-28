@@ -1,4 +1,3 @@
-### `Definition`
 
 **Linux shells** are **command-line interpreters** that provide the primary interface for interacting with the Linux operating system, enabling command execution, scripting, and automation.
 

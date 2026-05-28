@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Event-Driven Programming** is a programming paradigm where program flow is driven by **events**—such as user actions, messages, or system signals—rather than by a predefined, linear execution sequence.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Windows 7**, released in 2009, is a desktop operating system built on the Windows NT 6.x architecture. It is widely regarded as one of Microsoft’s most polished and stable consumer OS releases.
 
 ---

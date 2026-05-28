@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Software versioning** is the process of assigning unique identifiers — called **version numbers** — to different releases of a software product.  It helps track the software’s evolution, communicate the scale of changes, and manage compatibility between versions.
 
 ---

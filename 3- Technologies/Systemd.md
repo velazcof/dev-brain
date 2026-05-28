@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **systemd** is a **system and service manager** for Linux that initializes the user space, manages system services, and coordinates system state during boot and runtime.
 
 It replaces traditional init systems by providing a unified framework for service lifecycle management.

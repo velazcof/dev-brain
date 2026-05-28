@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Low-level programming languages** provide **little to no abstraction from hardware**. They give developers **direct control over system resources**, memory, and processor instructions.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Cloud Deployment Models** describe **how and where** cloud computing resources are deployed, managed, and accessed.
 
 They define the **ownership**, **control**, and **responsibility** of the infrastructure — determining who operates it, who uses it, and how it’s connected to other systems.

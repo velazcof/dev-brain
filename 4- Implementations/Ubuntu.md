@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Ubuntu** is a **Debian-based Linux operating system** developed by Canonical, available in both **Desktop** and **Server** editions.
 
 It focuses on **ease of use, strong hardware compatibility, security, and long-term support**, making it one of the most widely used Linux distributions for personal computing, development, and enterprise environments.

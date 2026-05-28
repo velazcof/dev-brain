@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Firebase is a **Backend as a Service (BaaS) platform** provided by Google that offers managed backend infrastructure for building web and mobile applications. 
 
 It provides services such as **databases, authentication, hosting, storage, and serverless functions**, allowing developers to build applications without managing traditional backend servers.

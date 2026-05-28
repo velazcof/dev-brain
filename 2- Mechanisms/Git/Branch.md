@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **branch** is a **mechanism for isolating and evolving changes** within a version control system by creating an independent line of development from an existing state of the codebase.
 
 It enables parallel modification of code without immediately affecting other work.

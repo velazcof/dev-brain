@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Database Replication** is the process of copying and synchronizing data across multiple database instances to improve availability, reliability, and scalability. It ensures that multiple nodes maintain consistent or near-consistent copies of the same data.
 
 ---

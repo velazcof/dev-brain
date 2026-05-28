@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Sprint Retrospective** is the **final event of the Scrum cycle**, held after the Sprint Review.  
 Its purpose is to **reflect on the past sprint**, **evaluate team health**, and **identify concrete improvements** for the next sprint.
 

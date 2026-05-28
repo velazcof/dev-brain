@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Content Delivery Network (CDN)** is a **distributed system of servers (edge nodes)** positioned across different geographic regions to deliver digital content—such as images, videos, scripts, and APIs—quickly and reliably to users.
 
 It works as a **middle layer** between the client and the origin server, caching and routing content closer to users to minimize latency and bandwidth usage.

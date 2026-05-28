@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Couchbase** is a distributed document-oriented database management system designed for high-performance applications requiring flexible data models and scalability. It stores data as JSON documents and supports both key-based access and SQL-like querying.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **rpm** is the **low-level package management tool** used in RPM-based Linux distributions to install, remove, query, and verify software packaged in the `.rpm` format. It operates directly on package files and the system package database.
 
 ---

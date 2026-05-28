@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **cqlsh** is the command-line client used to interact with Apache Cassandra databases. It allows users to execute Cassandra Query Language (CQL) statements and manage keyspaces and tables from a terminal.
 
 ---

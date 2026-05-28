@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **runtime environment** provides the **execution context in which a program runs**, supplying services such as memory handling, execution control, and access to system capabilities.
 
 It defines how program instructions are executed and how they interact with underlying system resources.

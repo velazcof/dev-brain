@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Windows NT Kernel** is the **core system kernel** used by modern Windows operating systems, responsible for **process management, memory management, hardware abstraction, security, and system stability**.
 
 It is the foundation of the **Windows NT family**, powering both desktop and server editions of Windows.

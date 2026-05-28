@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **OpenBSD** is a **free and open-source Unix-like operating system** from the **BSD family**, known for its **security-first philosophy, code correctness, and simplicity**.
 
 It is designed to be **secure by default**, with a strong emphasis on **proactive security and clean system design**.

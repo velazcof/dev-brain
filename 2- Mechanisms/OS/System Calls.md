@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **System calls** define how **user-space programs request services from the operating system kernel** in a controlled and safe manner. They provide the formal interface through which applications access core operating system functionality.
 
 ---

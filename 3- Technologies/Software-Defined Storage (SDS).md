@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Software-Defined Storage (SDS)** is a **storage technology** where **storage services are managed and delivered through software**, abstracted from the underlying hardware.
 
 It enables flexible, scalable storage using **commodity hardware** rather than specialized storage appliances.

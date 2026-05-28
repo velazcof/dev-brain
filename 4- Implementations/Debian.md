@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Debian** is a **free, open-source Linux operating system** known for its **stability, security, and long release cycles**.
 
 It is one of the oldest and most influential Linux distributions and serves as the **base for many other distros**, including Ubuntu, Linux Mint, Pop!_OS, and countless server-oriented OSes.

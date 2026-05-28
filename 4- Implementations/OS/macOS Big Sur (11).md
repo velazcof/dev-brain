@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **macOS Big Sur (11)** is a **major Apple desktop operating system release** that marked a **foundational shift in macOS architecture**, introducing official **Apple Silicon support** and modernizing system security, versioning, and internals.
 
 It represents the start of **modern macOS** as it exists today.

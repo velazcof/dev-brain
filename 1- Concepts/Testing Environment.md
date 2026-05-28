@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **testing (QA) environment** is used to verify that the application behaves correctly and meets requirements before release. It is more controlled and stable than development.
 
 ---

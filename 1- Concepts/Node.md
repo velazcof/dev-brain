@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **node** is an individual computing entity within a distributed system that can process data, store state, and communicate with other nodes over a network. A node may represent a physical machine, a virtual machine, or a running service instance.
 
 ---

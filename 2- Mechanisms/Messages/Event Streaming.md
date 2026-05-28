@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Event Streaming** is a messaging pattern where events are **continuously published to an append-only log** and **consumed sequentially by subscribers**, who track their own position in the stream.
 
 Events are **retained** and can be **replayed**, enabling systems to process data in real time or retrospectively.

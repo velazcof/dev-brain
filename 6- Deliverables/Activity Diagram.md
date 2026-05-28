@@ -1,6 +1,4 @@
 
-### `Definition`
-
 An **activity diagram** is a **behavioral diagram** that represents the **flow of actions and decisions** within a process, showing how control moves from one step to another.
 
 ---

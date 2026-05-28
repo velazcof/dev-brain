@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **programming language** is a **formal system of syntax and semantics** used to communicate instructions to a computer. It allows developers to express algorithms, logic, and data manipulation in a structured, human-readable way that can be executed by machines.
 
 ---

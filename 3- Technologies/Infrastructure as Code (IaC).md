@@ -1,4 +1,3 @@
-### `Definition`
 
 **Infrastructure as Code (IaC)** is the practice of **managing and provisioning infrastructure through machine-readable configuration files** instead of manual processes. It treats servers, networks, and environments as **programmable resources**, allowing teams to automate setup, scaling, and maintenance with consistency and speed.
 

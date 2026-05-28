@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Redis** is an in-memory key-value database system designed for high-performance data storage and retrieval. It is commonly used when low-latency access and high throughput are more important than complex relational querying.
 
 ---

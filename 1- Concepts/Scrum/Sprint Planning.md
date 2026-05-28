@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Sprint Planning** is the **Scrum event** where the team determines _what_ work will be delivered and _how_ it will be accomplished during the upcoming sprint. It results in a **Sprint Backlog** — a set of user stories selected from the Product Backlog — and a clearly stated **Sprint Goal**.
 
 ---

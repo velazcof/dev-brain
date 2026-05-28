@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **SDLC** is a structured framework that defines the **stages of software creation** — from planning and design to testing, deployment, and maintenance. It provides a **standardized approach** to ensure software is developed efficiently, predictably, and with consistent quality.
 
 ---

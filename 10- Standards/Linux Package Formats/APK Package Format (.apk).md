@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **APK package format (.apk)** defines the **structure and metadata** used by Alpine Linux packages.  
 It specifies how software, configuration files, dependencies, and installation scripts are packaged for use by the Alpine package ecosystem.
 

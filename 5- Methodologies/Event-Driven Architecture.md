@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Event-Driven Architecture (EDA)** is a software design pattern where system components communicate by **producing and consuming events**.  
 
 Instead of direct synchronous calls, components react to events that represent state changes or actions in the system.

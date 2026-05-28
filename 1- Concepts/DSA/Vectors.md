@@ -1,4 +1,3 @@
-### `Definition`
 
 Vectors are **dynamic arrays**: contiguous-memory data structures that automatically resize as elements are added or removed. They provide fast indexed access while offering flexibility over fixed-size arrays.
 

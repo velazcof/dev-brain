@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Apache Pulsar** is a **distributed messaging and event streaming platform** designed to support **both traditional messaging (queues, pub/sub)** and **event streaming** within a single system.
 
 It separates **message storage from serving**, enabling high scalability, multi-tenancy, and flexible messaging patterns.

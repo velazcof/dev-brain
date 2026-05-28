@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **fork** creates an **independent copy of a repository under a separate ownership context**, allowing changes to be made without directly affecting the original source. It enables parallel development and contribution across organizational or ownership boundaries.
 
 ---

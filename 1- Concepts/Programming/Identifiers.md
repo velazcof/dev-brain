@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Identifiers** are symbolic names used in programs to **refer to entities** such as variables, constants, functions, types, and other constructs. They allow developers to reference program elements in a **human-readable** way instead of using raw memory locations or machine-level representations.
 
 ---

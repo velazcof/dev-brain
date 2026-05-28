@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Database Durability** is the guarantee that once a transaction is committed, its changes will persist even in the event of crashes or system failures. It defines when a system considers data permanently stored and safe from loss.
 
 ---

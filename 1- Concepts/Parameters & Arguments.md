@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Parameters and arguments** define how data is **passed into a function**.  
 **Parameters** are the named placeholders declared by a function, while **arguments** are the actual values supplied when the function is called.
 

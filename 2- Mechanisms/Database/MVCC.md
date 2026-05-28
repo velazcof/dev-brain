@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Multi-Version Concurrency Control (MVCC)** is a concurrency control mechanism that allows multiple transactions to access the same data by maintaining multiple versions of records. It enables readers and writers to operate concurrently without blocking each other under certain isolation levels.
 
 ---

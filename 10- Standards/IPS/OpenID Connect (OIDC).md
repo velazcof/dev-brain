@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **OpenID Connect (OIDC)** is an **authentication standard** built on top of **OAuth 2.0**, providing an identity layer for secure user login and federation.
 
 ---

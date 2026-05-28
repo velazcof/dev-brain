@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Expressions** are combinations of values, variables, and operators that **evaluate to a result**.  **Operators** are symbols or keywords that define **operations performed on one or more operands**, such as arithmetic, comparison, or logical operations.
 
 Together, they form the **basic building blocks of computation** in programming languages.

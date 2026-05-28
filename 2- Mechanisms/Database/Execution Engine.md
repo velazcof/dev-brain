@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Execution Engine** is the mechanism that carries out a selected query plan by performing the actual data operations required to produce results.
 
 It executes low-level operations such as scans, joins, filtering, and aggregation against storage and memory structures.

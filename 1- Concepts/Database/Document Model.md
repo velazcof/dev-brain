@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Document Model** is a database model that represents data as self-contained documents, typically structured in hierarchical or nested formats. Each document encapsulates related data together, rather than distributing it across multiple tables.
 
 ---

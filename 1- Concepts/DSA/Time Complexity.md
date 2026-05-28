@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Time complexity** describes how the **number of operations an algorithm performs grows** as the size of its input increases. It provides a way to reason about an algorithm’s **efficiency and scalability**.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Bash (Bourne Again SHell)** is a widely used Unix shell and scripting language, developed as a GNU-compatible replacement for the original Bourne shell (`sh`)**.
 
 It is the **default shell on most Linux distributions** and is commonly used for **interactive command-line work and system scripting**.

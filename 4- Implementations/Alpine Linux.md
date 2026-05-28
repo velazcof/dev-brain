@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Alpine Linux** is a **minimal, security-focused Linux distribution** designed to be **small, simple, and efficient**, especially for **servers, containers, and embedded systems**. It uses **musl libc**, **BusyBox**, and the **APK package ecosystem**, making it a popular choice for Docker images and resource-constrained environments.
 
 ---

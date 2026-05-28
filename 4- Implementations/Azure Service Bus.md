@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Azure Service Bus** is a **fully managed enterprise messaging service** provided by Microsoft Azure that supports **message queues and publish–subscribe messaging** with advanced reliability, ordering, and transactional guarantees.
 
 It is designed for **enterprise-grade asynchronous communication** between distributed applications.

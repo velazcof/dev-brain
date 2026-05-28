@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Software Development** is the process of **creating software by writing, modifying, and refining code**. It transforms requirements or designs into functional programs using programming languages, tools, and development practices.
 
 ---

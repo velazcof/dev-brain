@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Trees are **hierarchical, non-linear data structures** composed of nodes connected by edges, where each node has a single parent (except the root) and zero or more children. They are used to represent structured relationships and ordered hierarchies.
 
 ---

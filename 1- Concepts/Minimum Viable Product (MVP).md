@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Minimum Viable Product (MVP)** is the simplest **complete version** of a product that allows a team to **test a key hypothesis** about its value or usability with real users.  It’s not a _barely working_ prototype or an unfinished “first version,” but a **focused experiment** built to validate assumptions about customer needs before committing to full-scale development.  
 
 In software, this often means delivering a _functional but minimal_ app — one that does only what’s essential to test whether users find it valuable — rather than building a feature-rich or polished product.

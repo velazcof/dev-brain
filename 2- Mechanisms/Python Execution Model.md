@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The Python Execution Model defines **how Python code is executed within the runtime**, including how statements are evaluated, how scopes are resolved, and how program flow is managed during execution.
 
 It describes the **rules and processes that govern how Python programs are interpreted and executed**, independent of any specific runtime implementation.

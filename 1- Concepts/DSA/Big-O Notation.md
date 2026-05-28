@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Big-O notation** is a mathematical notation used to **describe how an algorithm’s resource usage grows** as the size of its input increases. It focuses on **growth trends**, not exact execution time.
 
 ---

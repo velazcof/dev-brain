@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Conway’s Law** states that an organization’s software architecture **will mirror its communication structure**.  In practice, if teams are siloed by function **(e.g., UI, business logic, database)**, the resulting system will reflect those boundaries — often as tightly-coupled layers.  
 
 Cross-functional, domain-aligned teams naturally produce more modular, loosely coupled architectures.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Daily Stand-Up** (also called the **Daily Scrum**) is a **short, timeboxed meeting** held every day of the sprint where the **Scrum Team synchronizes work** and plans for the next 24 hours.
 
 It’s a **15-minute, team-focused conversation**, not a project status report.

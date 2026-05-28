@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Windows shells** are **command-line environments** used to interact with the Windows operating system, differing significantly from Unix shells in design and philosophy.
 
 ---

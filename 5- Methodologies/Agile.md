@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Agile** is a **software development methodology and mindset** focused on delivering value through **iteration, collaboration, and adaptability**. It emphasizes responding to change, continuous improvement, and delivering working software frequently instead of following rigid, pre-defined plans.
 
 ---

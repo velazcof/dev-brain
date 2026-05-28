@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Chaos Engineering** is a **methodology** for improving system resilience by **intentionally introducing controlled failures** into a system to observe how it behaves under stress.
 
 The goal is to **build confidence** that the system can withstand real-world failures.

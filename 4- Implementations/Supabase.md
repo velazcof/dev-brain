@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Supabase is an **open-source Backend as a Service (BaaS)** platform that provides managed backend infrastructure built primarily around a **PostgreSQL database**.
 
 It offers services such as authentication, storage, real-time data synchronization, and serverless functions, allowing developers to build applications without implementing a traditional backend.

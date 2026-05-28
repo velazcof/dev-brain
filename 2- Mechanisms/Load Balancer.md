@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **load balancer** distributes incoming network requests across multiple servers to prevent any single server from becoming overloaded. It enables applications to handle traffic efficiently while maintaining availability and reliability.
 
 ---

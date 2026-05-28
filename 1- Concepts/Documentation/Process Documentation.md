@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Process Documentation** is a type of **software documentation** that describes **how to perform or reproduce a process** related to the software’s development, deployment, or maintenance. It focuses on **workflows, procedures, and standards** used by the team to ensure consistency, quality, and repeatability across operations.
 
 ---

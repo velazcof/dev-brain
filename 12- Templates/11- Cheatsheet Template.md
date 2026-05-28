@@ -1,6 +1,4 @@
 
-### `Definition`
-
 %% What this cheatsheet is a quick reference for, and what scope it covers. %%
 
 ---

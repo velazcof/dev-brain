@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Command Prompt (cmd.exe)** is a **text-based command-line shell** for Windows that allows users to execute system commands, run batch scripts, and interact with the operating system at a basic level.
 
 It is primarily used for **legacy compatibility**, simple automation, and basic system interaction.

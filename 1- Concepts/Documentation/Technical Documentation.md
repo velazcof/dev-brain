@@ -1,4 +1,3 @@
-### `Definition`
 
 **Technical Documentation** explains the **internal workings, logic, and structure** of a software system. It is written primarily for **developers, engineers, and technical stakeholders** to understand, maintain, and extend the codebase efficiently.
 

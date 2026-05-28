@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **macOS Catalina (10.15)** is a **desktop operating system release by Apple**, marking a major transition point in macOS by **removing legacy support** and enforcing **modern security and application standards**.
 
 It represents the boundary between **classic macOS compatibility** and the **modern macOS ecosystem**.

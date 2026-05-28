@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Sprint Backlog** is a **subset of the Product Backlog** selected for a single sprint, along with a concrete plan for delivering it.  It represents the work the team commits to completing within the sprint timeframe.
 
 ---

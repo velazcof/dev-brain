@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Cloud Security Posture Management (CSPM)** is a category of security tools that **continuously assess cloud environments** to detect **misconfigurations, security risks, and compliance violations** across cloud resources.
 
 CSPM tools help ensure cloud infrastructure is configured according to **security best practices and standards**.

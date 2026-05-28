@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Cost-Based Optimizer** is the mechanism that evaluates alternative query execution plans and selects the most efficient one based on estimated resource costs. It chooses a plan by comparing predicted performance metrics such as I/O, CPU usage, and memory consumption.
 
 ---

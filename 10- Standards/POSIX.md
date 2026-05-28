@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **POSIX (Portable Operating System Interface)** is a **set of IEEE standards** that defines a **common operating system interface** for Unix-like systems, specifying expected behavior for **processes, files, permissions, signals, and system calls**.
 
 ---

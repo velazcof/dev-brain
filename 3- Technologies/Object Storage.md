@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Object storage manages data as self-contained objects — each containing the data, metadata, and a unique identifier.  It’s designed for enormous scalability and durability across distributed systems.
 
 ---

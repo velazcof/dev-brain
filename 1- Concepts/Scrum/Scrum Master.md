@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Scrum Master** is the **facilitator and coach** who ensures the Scrum framework is followed correctly. They help the team stay productive by removing obstacles, protecting focus, and promoting self-organization.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Phase 4 – Testing** is the stage of the **Software Development Life Cycle (SDLC)** where the software is thoroughly evaluated to ensure it meets all defined **requirements**, functions correctly, and is free of major defects before deployment.
 
 ---

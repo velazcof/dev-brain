@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Composite Multicloud** environment uses **multiple public clouds simultaneously** for **a single workload or application**, distributing components across providers for performance, redundancy, or cost reasons.
 
 ---

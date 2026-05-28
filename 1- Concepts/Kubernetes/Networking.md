@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Networking refers to the systems and mechanisms responsible for **communication between applications, services, containers, and external clients within a Kubernetes cluster**. It enables workloads to discover, expose, and exchange data with each other across distributed environments.
 
 ---

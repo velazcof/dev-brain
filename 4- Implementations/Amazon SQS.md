@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Amazon Simple Queue Service (SQS)** is a **fully managed message queue service** provided by AWS that enables **asynchronous, decoupled communication** between distributed application components without managing messaging infrastructure.
 
 ---

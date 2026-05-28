@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Requirements** describe **what a software system should do**, **why** it should do it, and **under what conditions** it should operate. They define the **scope, functionality, and constraints** of a system before design or development begins.  
 
 In the SDLC, requirements are the **core output of the Planning phase** and form the foundation for all subsequent design, coding, and testing work.

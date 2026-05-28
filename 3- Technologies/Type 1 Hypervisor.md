@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Type 1 Hypervisor**, also known as a **bare-metal hypervisor**, runs **directly on the host’s hardware** without a host operating system. It manages hardware resources natively, offering **better performance, lower latency, and stronger isolation** than Type 2 hypervisors.
 
 ---

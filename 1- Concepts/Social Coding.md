@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Social coding** is the idea that software development is a **collaborative and community-driven activity** rather than an isolated one. It emphasizes sharing, feedback, and collective improvement through online platforms where developers can contribute, review, and learn from each other’s code.
 
 ---

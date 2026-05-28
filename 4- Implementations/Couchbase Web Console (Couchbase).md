@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Couchbase Web Console** is a graphical management interface used to administer and interact with Couchbase database clusters. It provides tools for monitoring, querying, and configuring Couchbase systems through a web-based interface.
 
 ---

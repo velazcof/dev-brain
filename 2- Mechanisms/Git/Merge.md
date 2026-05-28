@@ -1,4 +1,3 @@
-### `Definition`
 
 A **merge** integrates changes from one line of development into another, combining separate histories into a single codebase state. It enables independently developed changes to become part of a shared evolution.
 

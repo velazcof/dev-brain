@@ -1,4 +1,3 @@
-### `Definition`
 
 A **bucket** is the fundamental **storage container** used in **object storage systems** (like AWS S3, Google Cloud Storage, or Firebase Storage).
 

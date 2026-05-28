@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Memory management** governs how a system **allocates, tracks, protects, and reclaims memory** for running programs. It ensures that memory is used efficiently while maintaining isolation and stability between concurrent workloads.
 
 ---

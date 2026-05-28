@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Function scope** defines the **visibility and lifetime of identifiers declared within a function**. It determines which variables, parameters, and nested identifiers can be accessed inside the function body and where they are hidden from the rest of the program.
 
 ---

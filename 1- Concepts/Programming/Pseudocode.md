@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Pseudocode** is an **informal, human-readable description of an algorithm** written in a structured but language-agnostic way. It outlines a program’s logic and flow without focusing on syntax or implementation details.
 
 ---

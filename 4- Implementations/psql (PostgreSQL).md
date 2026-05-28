@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **psql** is the command-line client used to interact with PostgreSQL databases. It allows users to execute SQL queries, manage database objects, and run administrative commands directly from a terminal.
 
 ---

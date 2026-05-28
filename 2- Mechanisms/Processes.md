@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **process** represents a **running instance of a program**, encompassing its execution state, allocated resources, and isolation boundaries within an operating system. It is the fundamental unit through which work is executed and managed.
 
 ---

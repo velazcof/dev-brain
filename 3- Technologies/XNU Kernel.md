@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **XNU Kernel** is the **core operating system kernel** used by **Apple operating systems**, including **macOS, iOS, iPadOS, watchOS, and tvOS**.
 
 It is a **hybrid kernel** that combines components from **Mach** and **BSD**, forming the low-level foundation of Apple’s OS platforms.

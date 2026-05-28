@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Standard Password Policy** defines the **rules and best practices** governing how passwords are created, stored, and maintained to prevent unauthorized access.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A System Context Diagram shows your software system as a single box and illustrates how it interacts with external users, systems, and services. It defines the boundaries of the system and highlights its role within a larger environment.
 
 ---

@@ -1,4 +1,3 @@
-### `Definition`
 
 A **Type 2 Hypervisor**, or **hosted hypervisor**, runs **on top of an existing operating system**.  
 It uses the host OS to manage hardware access and provides a **user-friendly, flexible way** to run multiple virtual machines on personal or development systems.

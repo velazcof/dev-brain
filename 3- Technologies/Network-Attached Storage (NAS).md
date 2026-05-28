@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Network Attached Storage (NAS)** is a **storage technology** that provides **centralized file storage** accessible over a network by multiple devices and users.
 
 It allows systems to store and retrieve data as **files** rather than raw blocks, using standard network protocols.

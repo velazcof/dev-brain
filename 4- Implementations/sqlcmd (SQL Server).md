@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **sqlcmd** is the command-line client used to interact with Microsoft SQL Server databases. It allows users to execute T-SQL queries, run scripts, and perform administrative tasks directly from a terminal.
 
 ---

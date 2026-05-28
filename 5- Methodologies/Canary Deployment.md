@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A Canary Deployment is a deployment strategy where the **new application version is gradually exposed to a small subset of users before wider rollout occurs**.
 
 Traffic is incrementally shifted to the new version while monitoring system behavior and stability.

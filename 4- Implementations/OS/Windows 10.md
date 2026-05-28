@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Windows 10**, released in 2015, is a modern desktop operating system built on the Windows NT 10.x architecture.  
 It unified the Windows ecosystem under a single codebase and introduced Windows-as-a-Service, providing continuous updates rather than major version releases.
 

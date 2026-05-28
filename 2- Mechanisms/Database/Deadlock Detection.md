@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Deadlock Detection** is the mechanism that identifies situations where two or more transactions are waiting indefinitely for resources held by each other. It enables the system to resolve circular wait conditions and restore progress.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **window manager** controls how **graphical windows are positioned, sized, focused, and displayed** within a graphical user environment. It defines the behavior and arrangement of application windows on the screen.
 
 ---

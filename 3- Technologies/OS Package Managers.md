@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **OS Package Managers** are tools that install, update, configure, and remove **system-level software** on an operating system. They manage applications, services, drivers, libraries, and system tools across the entire machine.
 
 ---

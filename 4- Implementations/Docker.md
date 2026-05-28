@@ -1,4 +1,3 @@
-### `Definition`
 
 Docker is a **container platform** that enables applications to be packaged into **containers**, allowing them to run consistently across different computing environments.
 

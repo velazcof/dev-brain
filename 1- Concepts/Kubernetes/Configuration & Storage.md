@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Configuration & Storage refers to the systems and mechanisms responsible for **managing application configuration, secrets, and persistent data within a Kubernetes environment**. It provides ways for workloads to receive external configuration and maintain data independently from the lifecycle of containers or pods.
 
 ---

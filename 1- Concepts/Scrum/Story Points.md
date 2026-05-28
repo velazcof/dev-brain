@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Story Points** are an **abstract unit of measure** used in Agile (especially Scrum) to estimate the **relative difficulty or effort** required to complete a **User Story**.  They represent **complexity, effort, and uncertainty** — _not_ time.
 
 ---

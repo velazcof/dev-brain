@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Water-Scrum-Fall** describes a **hybrid development pattern** where organizations combine **traditional Waterfall planning and deployment** with **iterative development in the middle**, often mistakenly believing they are practicing Agile.  
 
 In reality, this model retains rigid upfront planning and delayed feedback, missing the core Agile principle of continuous delivery and customer responsiveness.

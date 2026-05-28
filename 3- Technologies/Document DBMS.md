@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Document DBMS** is a database management system that implements the document model for storing and managing data. It organizes data as structured documents, typically in JSON-like formats, and allows flexible schemas.
 
 ---

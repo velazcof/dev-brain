@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Drivers** are **software components** that allow the operating system to **communicate with and control hardware devices**. They translate generic OS requests into hardware-specific instructions.
 
 ---

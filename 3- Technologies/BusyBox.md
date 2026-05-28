@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **BusyBox** is a **lightweight user-space technology** that provides a large collection of standard Unix utilities bundled into a **single executable**. It is designed for minimal, resource-constrained environments such as embedded systems and containers.
 
 ---

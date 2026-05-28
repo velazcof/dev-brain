@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Flowchart** is a **visual diagram that represents the steps of an algorithm or process** using standardized shapes and arrows to show sequence and decision flow.
 
 ---

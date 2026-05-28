@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Infrastructure as a Service (IaaS)** is a **cloud service model** that provides on-demand access to fundamental computing resources — **servers, storage, and networking** — over the internet.  
 It gives users the building blocks to create and manage their own virtualized environments without maintaining physical hardware.
 

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A Kubernetes Deployment is a resource that **manages the lifecycle, scaling, and updates of pods in a declarative way**. It defines the desired state of an application and ensures that the system continuously maintains that state over time.
 
 ---

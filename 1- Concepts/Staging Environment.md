@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **staging environment** is a pre-production environment that closely mirrors production. It is used to validate the final system before it goes live.
 
 ---

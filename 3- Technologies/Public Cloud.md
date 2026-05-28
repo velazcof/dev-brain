@@ -1,4 +1,3 @@
-### `Definition`
 
 A **Public Cloud** is a cloud computing model where resources such as servers, storage, and applications are **owned and managed by a third-party provider** and made available to multiple customers over the internet.
 

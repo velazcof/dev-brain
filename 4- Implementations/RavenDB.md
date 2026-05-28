@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **RavenDB** is a document-oriented database management system designed for transactional applications that require flexible data structures. It stores data as JSON-like documents and provides ACID-compliant operations with built-in indexing and querying capabilities.
 
 ---

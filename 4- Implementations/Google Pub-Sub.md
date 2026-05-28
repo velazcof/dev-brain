@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Google Cloud Pub/Sub** is a **fully managed, global publish–subscribe messaging service** that enables applications to **publish events and deliver them asynchronously** to multiple subscribers at scale.
 
 It is designed for **event-driven systems**, streaming ingestion, and loosely coupled services.

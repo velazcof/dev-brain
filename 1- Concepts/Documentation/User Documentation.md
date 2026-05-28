@@ -1,4 +1,3 @@
-### `Definition`
 
 **User Documentation** is a type of **product documentation** that explains how **end users** can **install, operate, and troubleshoot** a software product. It translates technical details into **clear, accessible instructions** for non-technical audiences, helping users achieve their goals efficiently.
 

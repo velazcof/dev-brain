@@ -1,6 +1,4 @@
 
-### `Definition`
-
 AWS Lambda is a **serverless compute service** provided by Amazon Web Services that allows developers to run **event-driven code without provisioning or managing servers**.
 
 It implements the **Function as a Service (FaaS)** model, automatically executing functions in response to events from AWS services or HTTP requests while scaling automatically and charging only for the compute time used.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Xcode Command Line Tools** are a **collection of developer-focused command-line utilities** provided by Apple to support software development on macOS. They supply essential tools such as compilers, build systems, debuggers, and version control utilities without requiring the full Xcode IDE.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Waterfall** is a **linear software development methodology** where progress flows through fixed stages — requirements, design, implementation, testing, deployment, and maintenance — in sequence.
 
 Each phase must be completed before moving to the next, emphasizing documentation and upfront planning.

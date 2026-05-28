@@ -1,4 +1,3 @@
-### `Definition`
 
 **Elementary OS** is a Debian/Ubuntu-based Linux distribution focused on **beautiful design, simplicity, and a cohesive desktop experience**.  
 It aims to be an elegant, user-friendly alternative to macOS and Windows, emphasizing minimalism and usability.

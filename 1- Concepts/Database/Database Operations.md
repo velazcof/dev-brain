@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Database Operations** refers to the activities and capabilities involved in maintaining, securing, and ensuring the reliability of a database system throughout its lifecycle. It focuses on keeping a database available, consistent, performant, and recoverable in real-world environments.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Functional Programming** is a programming paradigm that structures programs around **pure functions**, **immutable data**, and **explicit data flow**, emphasizing computation as the evaluation of expressions rather than the execution of commands.
 
 ---

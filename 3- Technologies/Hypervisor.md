@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **Hypervisor** is a software or firmware layer that **creates and manages virtual machines (VMs)** by dividing and allocating a host’s hardware resources — CPU, memory, storage, and networking — across multiple isolated environments.
 
 ---

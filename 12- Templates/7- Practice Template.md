@@ -1,6 +1,4 @@
 
-### `Definition`
-
 %% The core belief or reason this practice exists. %%
 
 ---

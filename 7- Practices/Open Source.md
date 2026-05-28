@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Open source** is the practice of **making source code publicly accessible** so others can study it, use it, modify it, and distribute improvements, enabling collaborative and transparent software development.
 
 ---

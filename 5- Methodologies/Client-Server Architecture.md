@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Client-Server Architecture** is a design pattern where applications are divided into **clients**, which request resources or services, and **servers**, which provide them.  
 Clients initiate communication; servers process requests and return results.
 

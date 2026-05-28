@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Scrum Team**, also called the **Development Team**, is a **cross-functional, self-managing group** responsible for delivering product increments each sprint. They collectively plan, commit, and execute the work required to meet sprint goals.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A Container Diagram shows the major building blocks of a software system—called containers—such as web apps, APIs, databases, queues, and mobile apps. It illustrates how these containers interact and what responsibilities each one has.
 
 ---

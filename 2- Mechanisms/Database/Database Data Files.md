@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Database Data Files** are the physical files on disk that store a database’s persistent data and structural information. They contain the organized collection of pages and extents that represent tables, indexes, and other database objects.
 
 ---

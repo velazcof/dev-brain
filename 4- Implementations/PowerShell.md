@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **PowerShell** is a **command-line shell and scripting environment** developed by Microsoft, designed for **task automation, system administration, and configuration management**, especially on Windows but also cross-platform.
 
 It is used when you need **structured automation**, deep system access, or object-based command pipelines.

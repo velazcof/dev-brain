@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **macOS User Space** refers to all software, frameworks, tools, and services that run **outside the kernel** on a macOS system. It forms the **execution environment for applications**, including system frameworks, command-line tools, graphical interfaces, background services, and user applications.
 
 It sits above the **XNU kernel**, interacting with it through well-defined system interfaces rather than direct hardware access. Unlike Linux, macOS user space is **centrally designed and tightly integrated** by Apple rather than assembled from interchangeable components.

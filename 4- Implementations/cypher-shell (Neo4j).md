@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **cypher-shell** is the command-line client used to interact with Neo4j graph databases. It allows users to execute Cypher queries and manage graph data directly from a terminal.
 
 ---

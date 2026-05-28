@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **3 Roles of Scrum** define the **core responsibilities within a Scrum team**:  the **Product Owner**, **Scrum Master**, and **Scrum Team (Development Team)**. Together, they ensure balanced focus on **vision, process, and execution**.
 
 ---

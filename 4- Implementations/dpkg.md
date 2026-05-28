@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **dpkg** is a **low-level package manager implementation** used by Debian-based Linux distributions. It installs, removes, and configures software packaged in the **DEB package format**, operating directly on the local system without handling repositories or dependency resolution.
 
 ---

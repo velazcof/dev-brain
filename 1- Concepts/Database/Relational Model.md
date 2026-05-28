@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Relational Model** is a database model that represents data as structured tables composed of rows and columns. It organizes information into relations and defines how data entities are connected using keys and constraints.
 
 ---

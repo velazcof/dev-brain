@@ -1,6 +1,4 @@
 
-### `Definition`
-
 MicroPython is a **lightweight implementation of the Python runtime** designed to run on **microcontrollers and resource-constrained embedded systems**.
 
 It provides a subset of the Python language optimized for low memory usage and direct interaction with hardware, enabling Python code to run on devices such as microcontrollers and IoT hardware.

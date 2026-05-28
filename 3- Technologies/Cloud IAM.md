@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Cloud IAM** (Identity and Access Management) is a **cloud-native technology** that manages user identities and access to cloud resources. It centralizes authentication, authorization, and role-based access control across cloud services like AWS, Azure, and GCP.
 
 ---

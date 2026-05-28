@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Windows Server 2008 R2**, released in 2009, is an enterprise operating system built on the **Windows NT 6.1 kernel** (same generation as Windows 7). It became one of the most widely deployed server OS versions due to its stability, performance, and major improvements in virtualization and Active Directory.
 
 ---

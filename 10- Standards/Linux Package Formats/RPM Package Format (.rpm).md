@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **RPM package format (.rpm)** defines the **structure, metadata, and behavior** of software packages used by RPM-based Linux distributions. It specifies how software, dependencies, scripts, and verification data are packaged for installation and management.
 
 ---

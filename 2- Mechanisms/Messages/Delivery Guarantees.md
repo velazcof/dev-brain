@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Delivery Guarantees** describe the promises a messaging system makes about how many times a message may be delivered and processed, especially in the presence of failures. They define the balance between **reliability, duplication, and complexity**.
 
 ---

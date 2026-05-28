@@ -1,6 +1,4 @@
 
-### `Definition`
-
 An **algorithm** is a **finite, well-defined sequence of steps** designed to solve a problem or perform a computation. It describes _what_ needs to be done to achieve a result, independent of programming language, hardware, or execution environment.
 
 ---

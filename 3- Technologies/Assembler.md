@@ -1,6 +1,4 @@
 
-### `Definition`
-
 An **Assembler** is a **program that translates assembly language** (human-readable mnemonics) **into machine code** (binary instructions that a CPU can execute). It acts as the bridge between **low-level symbolic code** and the processor’s **native instruction set**.
 
 ---

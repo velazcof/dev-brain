@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Platform as a Service (PaaS)** is a **cloud service model** that provides a complete environment for developing, testing, deploying, and managing applications — without the need to handle the underlying infrastructure.
 
 It abstracts the complexity of servers, networks, and storage, allowing developers to focus purely on building and running software.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Consistency models** define the rules that determine when and how updates to data become visible to users or systems. 
 
 They describe the guarantees a database provides about the ordering and visibility of operations, especially under concurrent access or distributed conditions.

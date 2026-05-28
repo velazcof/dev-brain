@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **DBMS Implementations** are concrete software products that realize the concept of a Database Management System. Each implementation provides a specific runtime system that supports one or more database models and exposes defined query interfaces.
 
 ---

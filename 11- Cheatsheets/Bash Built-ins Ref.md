@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A reference for **Bash built-in commands** — commands that are **implemented directly by the Bash shell**, not executed as external programs.
 
 These commands cease to exist if Bash is removed.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Phase 5 – Deployment** is the stage of the **Software Development Life Cycle (SDLC)** where the **tested application is released** to a live environment for **end users or customers**. It involves moving the software from staging or testing environments into **production**, ensuring that it operates as intended under real-world conditions.
 
 ---

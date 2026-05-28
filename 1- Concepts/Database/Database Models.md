@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Database models** define the logical structure used to organize, represent, and relate data within a database. They determine how data is structured conceptually, independent of any specific software implementation or engine.
 
 ---

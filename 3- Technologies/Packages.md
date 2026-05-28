@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A **package** is a **bundled collection of files** — usually code, resources, and metadata — that can be distributed and reused across different projects. It represents a self-contained unit of functionality, typically versioned and shared through a registry or repository.
 
 ---

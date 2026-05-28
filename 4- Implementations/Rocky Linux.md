@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Rocky Linux** is a **free, community-driven, enterprise-grade Linux distribution** that is **binary-compatible with Red Hat Enterprise Linux (RHEL)**.
 
 It was created to provide a **drop-in replacement for CentOS Linux** after its shift to CentOS Stream, targeting **production servers, enterprise workloads, and long-term stability** without licensing costs.

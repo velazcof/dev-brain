@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **launchd** is the **system initialization and service management daemon** used by macOS to manage system startup, background services, scheduled jobs, and user agents. It is the first process started by the system and remains responsible for managing services throughout runtime.
 
 ---

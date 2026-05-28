@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Continuous Delivery (CD)** is a **software delivery methodology** that builds upon Continuous Integration (CI) by automating the process of **deploying code to production-like environments** once it passes all quality checks.  
 
 Its goal is to ensure that software is **always in a deployable state**, allowing releases to happen frequently, safely, and predictably.

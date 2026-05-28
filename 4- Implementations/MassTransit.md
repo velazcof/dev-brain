@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **MassTransit** is an open-source **.NET messaging framework** that simplifies building **message-based and event-driven applications** by providing high-level abstractions on top of message brokers.
 
 It handles messaging concerns such as retries, error handling, serialization, and workflows so developers can focus on business logic.

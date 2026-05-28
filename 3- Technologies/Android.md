@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Android** is a **mobile operating system platform** built on the Linux kernel that defines a complete **application model, runtime environment, security architecture, and device ecosystem** for mobile and connected devices.
 
 It represents a **distinct OS platform**, not just a Linux distribution, due to its unique runtime, APIs, app lifecycle, and platform governance.

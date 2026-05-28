@@ -1,4 +1,3 @@
-### `Definition`
 
 A practical reference for commonly used **Docker CLI commands**, explaining what each command does and how it’s typically used during development and container management.
 

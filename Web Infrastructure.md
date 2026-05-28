@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Web Infrastructure refers to the **foundational systems and components responsible for delivering, routing, securing, and managing web traffic and web-based applications**. 
 
 It encompasses the infrastructure layer that enables communication between clients, servers, services, and applications across the web.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Object-Relational Mappers (ORMs)** are software libraries that map objects in application code to relational database tables. They allow developers to interact with relational databases using programming language constructs instead of writing raw SQL.
 
 ---

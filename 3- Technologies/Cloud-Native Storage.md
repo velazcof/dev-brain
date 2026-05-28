@@ -1,6 +1,4 @@
 
-### `Definition`
-
 Cloud-native storage refers to storage systems designed specifically for **containerized and microservice-based environments**.  
 
 Instead of manually attaching volumes or configuring shared drives, cloud-native storage integrates directly with **container orchestration platforms** like Kubernetes through standardized interfaces such as the **Container Storage Interface (CSI)**.

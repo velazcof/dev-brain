@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **DEB package format** defines the **structure and conventions** for software packages used by Debian-based Linux distributions. It specifies how application files, metadata, and maintenance scripts are bundled for installation and management by package tools.
 
 ---

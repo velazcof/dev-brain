@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Physical Layer (Layer 1)** of the **OSI Model** defines the **electrical, mechanical, and procedural standards** for transmitting raw bits across a physical medium.  It establishes how **0s and 1s** are represented, transmitted, and received between devices over cables, fiber optics, or wireless signals.
 
 ---

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **iproute2** is a **Linux networking configuration and management technology** that provides user-space tools to control and inspect the kernel’s networking stack. It replaces legacy networking utilities with a modern, unified interface.
 
 ---

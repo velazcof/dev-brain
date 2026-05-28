@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Assembly languages** are a **mechanism for expressing machine-level operations** using human-readable symbols, enabling direct control over how instructions are executed by the CPU.
 
 They provide a structured way to map human intent to processor instructions with minimal abstraction.

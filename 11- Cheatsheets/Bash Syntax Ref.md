@@ -1,6 +1,4 @@
 
-### `Definition`
-
 A reference for **Bash shell syntax and language rules**, describing **how Bash parses, expands, and executes commands**. This defines Bash as a **scripting language**, not just a command runner.
 
 ---

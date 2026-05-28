@@ -1,4 +1,3 @@
-### `Definition`
 
 A **sequence diagram** is a behavioral diagram that shows how multiple components or actors interact over time, emphasizing the order of messages and calls exchanged during a specific scenario.
 

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 **Alpine-based distributions** are Linux operating systems derived from or inspired by **Alpine Linux**, a lightweight, security-focused distribution designed around the **musl libc** library, **BusyBox**, and the **APK package ecosystem**.
 
 These distros prioritize minimalism, small footprint, and security-hardening, making them ideal for servers, containers, and embedded environments.

@@ -1,6 +1,4 @@
 
-### `Definition`
-
 The **Bulkhead Pattern** is a **resilience design pattern** that **isolates components or resources** within a system so that a failure in one part **does not cascade** and bring down the entire system.
 
 It is inspired by ship bulkheads, where compartments prevent flooding from spreading.
