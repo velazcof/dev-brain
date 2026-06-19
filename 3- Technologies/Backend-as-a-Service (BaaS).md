@@ -44,5 +44,4 @@ These platforms expose backend functionality through **SDKs and APIs**, enabling
 - [[Supabase]]
 - [[AWS Amplify]]
 - [[Appwrite]]
-    
 - [[PocketBase]]

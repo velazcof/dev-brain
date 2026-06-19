@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2f355106763128ab",
+        "id": "45cb35972ad5615f",
         "type": "tabs",
         "children": [
           {
-            "id": "a7f0cfdfa2894019",
+            "id": "ab7f76ab93983f77",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "serverless",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 613.5
   },
   "right": {
     "id": "5bf29ceefeac59d1",
@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 307.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,54 +177,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7f0cfdfa2894019",
+  "active": "ab7f76ab93983f77",
   "lastOpenFiles": [
-    "3- Technologies/API Gateways.md",
-    "3- Technologies/Load Balancers.md",
-    "3- Technologies/Proxies.md",
+    "1- Concepts/Serverless Computing.md",
+    "13- Vault Metadata/Images/Serverless Responsibility Model.png",
+    "3- Technologies/Backend-as-a-Service (BaaS).md",
+    "Pasted image 20260619121753.png",
+    "Pasted image 20260619121829.png",
+    "3- Technologies/Function-as-a-Service (FaaS).md",
+    "Serverless.md",
     "3- Technologies/Web Servers.md",
-    "1- Concepts/Web Infrastructure.md",
     "3- Technologies/Reverse Proxies.md",
+    "3- Technologies/Proxies.md",
+    "3- Technologies/Load Balancers.md",
+    "3- Technologies/API Gateways.md",
+    "1- Concepts/Web Infrastructure.md",
     "1- Concepts/Forward Proxies.md",
-    "3- Technologies/APT.md",
-    "3- Technologies/Android.md",
-    "2- Mechanisms/Application Server.md",
-    "5- Methodologies/Shadow Deployment.md",
-    "1- Concepts/Deployment Strategies.md",
-    "5- Methodologies/A-B Testing.md",
-    "A",
-    "5- Methodologies/Canary Deployment.md",
-    "5- Methodologies/Blue-Green Deployment.md",
-    "Blue",
-    "5- Methodologies/Rolling Deployment.md",
-    "5- Methodologies/Recreate Deployment.md",
-    "1- Concepts/Actionable Metrics.md",
-    "12- Templates/5- Methodology Template.md",
-    "1- Concepts/Database/Databases.md",
+    "1- Concepts/Documentation/Architectural Diagrams.md",
     "1- Concepts/Documentation/C4 Model.md",
+    "1- Concepts/Documentation/Software Documentation.md",
+    "1- Concepts/Documentation/UML Diagrams.md",
     "7- Practices/Kubernetes Anti-Patterns.md",
-    "2- Mechanisms/Kubernetes/Kubernetes Ingress.md",
-    "12- Templates/7- Practice Template.md",
-    "2- Mechanisms/Database/Execution Engine.md",
-    "2- Mechanisms/Firewall.md",
-    "2- Mechanisms/Messages",
-    "2- Mechanisms/OS",
-    "2- Mechanisms/Database",
-    "2- Mechanisms/Programming",
-    "2- Mechanisms/Git",
+    "5- Methodologies/A-B Testing.md",
+    "5- Methodologies/Blue-Green Deployment.md",
+    "5- Methodologies/Recreate Deployment.md",
+    "5- Methodologies/Rolling Deployment.md",
+    "5- Methodologies/Shadow Deployment.md",
+    "3- Technologies/Mobile (OS).md",
+    "11- Cheatsheets/Docker Concepts Ref.md",
+    "1- Concepts/API.md",
+    "1- Concepts/Cluster.md",
     "6- Deliverables/Scrum",
     "4- Implementations/OS",
-    "1- Concepts/Untitled",
-    "Untitled.canvas",
+    "2- Mechanisms/Kubernetes",
+    "2- Mechanisms/Git",
+    "2- Mechanisms/Database",
+    "1- Concepts/Programming",
+    "1- Concepts/Kubernetes",
+    "1- Concepts/DSA",
+    "2- Mechanisms/Programming",
+    "2- Mechanisms/OS",
     "13- Vault Metadata/Images/Acitivty Diagram.png",
     "13- Vault Metadata/Images/Sequence Diagram.png",
-    "13- Vault Metadata/Images/Epic.png",
-    "13- Vault Metadata/Images/System Context Diagram.png",
     "13- Vault Metadata/Images/Use Case Diagram.png",
     "13- Vault Metadata/Images/Network Diagram.png",
-    "13- Vault Metadata/Images/State Machine Diagram.png",
-    "13- Vault Metadata/Images/CI-CD Pipeline.png",
-    "13- Vault Metadata/Images/Container Diagram.png",
-    "13- Vault Metadata/Images/CI-CD Responsibilities.png"
+    "13- Vault Metadata/Images/Class Diagram.png",
+    "13- Vault Metadata/Images/Component Diagram.png",
+    "13- Vault Metadata/Images/Container Diagram.png"
   ]
 }
